@@ -34,7 +34,7 @@ const defaultOptions: Options = {
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
       // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
+      return a.slugSegment.localeCompare(b.slugSegment, undefined, {
         numeric: true,
         sensitivity: "base",
       })
@@ -100,7 +100,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-mobile={false}
           aria-expanded={true}
         >
-          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
+          <h2>Navigation</h2>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="14"
