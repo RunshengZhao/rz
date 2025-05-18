@@ -9,6 +9,13 @@ tags:
 
 Some videos about me.
 
-# The Girl From Ipanema
+## Impressions
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_Yurz7xas0A?si=78N0SUAXZU7tDd46&amp;start=135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Runsheng Zhao performs a guitar solo on John Coltrane’s classic Impressions at Voertman Hall in Denton, Texas, on April 8, 2025. The arrangement is by Eric Ladish.
+
+---
+
+## The Girl From Ipanema
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYD4RxB2DWM?si=TLWEVAnmOXqiPpOu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
