@@ -3,6 +3,7 @@ title: Bio
 description: ""
 date: 2025-05-14
 draft: false
+comments: false
 tags:
   - biography
 ---

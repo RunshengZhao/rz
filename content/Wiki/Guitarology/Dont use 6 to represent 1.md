@@ -7,11 +7,11 @@ tags:
   - 
 ---
 
-> One idea per note. What’s the insight here?
+> [!note] 要改变人的思维惯性是很难的一件事情。
 
-## Why does this matter?
+---
+也许我们不谈到底要用6还是1来表示小调主音，我们来聊聊人的思维惯性。
 
-## Connections
 
 ---
 > [!note] I’d love to hear what you think. Use your GitHub account to leave a comment below!  欢迎用 GitHub 账号在下方留言交流!
