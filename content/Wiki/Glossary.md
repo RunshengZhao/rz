@@ -1,17 +1,18 @@
 ---
-title: "<% tp.file.title %>"
+title: "Glossary 词汇表"
 description: ""
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2025-05-20
 draft: false
 tags:
   - 
 ---
 
-> One idea per note. What’s the insight here?
+### Parent Scale
+统领其下属的6个子音阶的音阶，比如Major Scale, Harmonic Minor Scale, Melodic Minor Scale。
 
-## Why does this matter?
+### Root
+根音，在一个和弦中具有主音性质的音，但请与低音区分开，根音通常是最低的音，但在转位中它可以存在于其他音上方。低音（Bass Note）指最低的音
 
-## Connections
 
 ---
 > [!note] I’d love to hear what you think. Use your GitHub account to leave a comment below!  欢迎用 GitHub 账号在下方留言交流!

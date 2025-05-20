@@ -10,13 +10,13 @@ Welcome! This section is a quick guide to who I am, my creative work, and how yo
 
 Browse the links below to explogit re different aspects of my life and interests:
 
-- [[01-Bio]] — My background, musical journey, and personal story.
+- [[01-Bio|Biography]] — My background, musical journey, and personal story.
 
-- [[02-photo]] — A glimpse into my life through images.
+- [[02-photo|Photos]] — A glimpse into my life through images.
 
-- [[03-video]] — Performances, projects, and moments I’ve captured on film.
+- [[03-video|Videos]] — Performances, projects, and moments I’ve captured on film.
 
-- [04-contact](04-contact.md) — Want to connect? Here’s how to reach me.
+- [[04-contact|Contact]] — Want to connect? Here’s how to reach me.
 
   
 

@@ -1,7 +1,7 @@
 ---
-title: "<% tp.file.title %>"
+title: "小调的主音不是6!"
 description: ""
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2025-05-20
 draft: false
 tags:
   - 

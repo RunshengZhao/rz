@@ -1,5 +1,5 @@
 ---
-title: "Digital Garden|数字花园"
+title: "Digital Garden 数字花园"
 description: ""
 date: 2025-05-14
 draft: false

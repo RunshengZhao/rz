@@ -1,17 +1,15 @@
 ---
-title: "<% tp.file.title %>"
+title: "牛仔和弦害你学不会吉他"
 description: ""
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2025-05-19
 draft: false
 tags:
   - 
 ---
 
-> One idea per note. What’s the insight here?
+# 牛仔和弦害你学不会吉他
 
-## Why does this matter?
 
-## Connections
 
 ---
 > [!note] I’d love to hear what you think. Use your GitHub account to leave a comment below!  欢迎用 GitHub 账号在下方留言交流!

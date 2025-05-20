@@ -1,7 +1,7 @@
 ---
-title: "<% tp.file.title %>"
+title: "平行vs相对，另一种系统的可能性"
 description: ""
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2025-05-20
 draft: false
 tags:
   - 
