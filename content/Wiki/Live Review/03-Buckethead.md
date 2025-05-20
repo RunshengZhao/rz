@@ -42,3 +42,23 @@ Buckethead 演出只有他和鼓手两人，其间他邀请了另外一位女性
 我在1个小时之后就退到的演唱场地二楼的最后排。我的体力支撑不了自己在前排站上两个小时。到了最后，他的演奏已经变成了某种抽象概念。“啊他在弹Power Chord”，“如果他去面试游轮吉他手肯定能通过，因为面试资料写着要展示你的finger tapping”， “他吉他下面那是什么按钮，断音按钮吗？可以创造出一种节奏性的声音，像是一种新的扫弦技巧。”“Chromatic Finger Tapping 很有意思，没有贝斯是因为这样不管弹什么都不会和一个不存在的乐器打架吗？”“最后结尾loop一小段噪音，和黑帝的结尾怎么这么像。”“除了像我一样过来参考什么叫rock guitar甚至stereotypical rock guitar的人，其他观众都为什么来？他们不在乎鼓手大部分时间都在放Program吗？”
 
 带着这些想法，我离开了Granada Theater，最后我只庆幸我省下了8美刀的停车费而我的车没有被拖走或者贴罚单。
+
+---
+> [!note] 💬 I’d love to hear what you think. Use your GitHub account to leave a comment below!  欢迎用 GitHub 账号在下方留言交流!
+
+<script src="https://giscus.app/client.js"
+        data-repo="RunshengZhao/rz"
+        data-repo-id="R_kgDOOrPyUA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOOrPyUM4CqW1I"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

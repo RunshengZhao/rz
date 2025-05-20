@@ -27,6 +27,8 @@ tags:
 删繁就简，CAGED系统就是这样5种八度指型。大部分情况下它决定
 
 ---
+> [!note] 💬 I’d love to hear what you think. Use your GitHub account to leave a comment below!  欢迎用 GitHub 账号在下方留言交流!
+
 <script src="https://giscus.app/client.js"
         data-repo="RunshengZhao/rz"
         data-repo-id="R_kgDOOrPyUA"

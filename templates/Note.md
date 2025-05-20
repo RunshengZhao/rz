@@ -14,6 +14,8 @@ tags:
 ## Connections
 
 ---
+> [!note] 💬 I’d love to hear what you think. Use your GitHub account to leave a comment below!  欢迎用 GitHub 账号在下方留言交流!
+
 <script src="https://giscus.app/client.js"
         data-repo="RunshengZhao/rz"
         data-repo-id="R_kgDOOrPyUA"
