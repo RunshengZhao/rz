@@ -9,7 +9,7 @@ tags:
 ---
 # 👋 Hi, I’m Runsheng Zhao
 
-🧭*** Don’t forget to navigate using the menu button!***
+🧭***Don’t forget to navigate using the menu button!***
 
 Welcome to my digital garden — a growing collection of notes, reflections, and resources on jazz guitar, music education, and more.
 
