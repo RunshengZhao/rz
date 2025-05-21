@@ -24,20 +24,15 @@ This site is part **personal wiki**, part **learning archive** — a space where
 Some pages are polished, others are in-progress — that’s the point. Like a real garden, things here grow organically.
 
 ---
+# 👋你好，我是赵润生
 
-## 🌱 What is this for?
+感谢你来到我的个人网站/数字花园。你可以通过旁边的导航可以去不同的地方看看。
 
-- **Students** can find annotated examples, theory breakdowns, and practice insights  
-- **Educators** might discover ideas around curriculum and creative strategies  
-- **Fellow musicians** are welcome to browse, reflect, or reach out  
+***About Me 关于我***： 个人网站的必备元素都在这里啦，Biography，一些照片和演出视频，还有联系方式。
 
-If something resonates, feel free to share it — or start a conversation.
+***Guitarology 吉他学***🎸 ： 我在这里分享关于吉他的一系列话题，如果你想了解我是怎么理解吉他的，去那里看看吧。
 
----
-
-## 🔗 Around the site
-
-[[01-Bio]]
+***Live Review 现场评论***🎵 ：有我记录的一些对现场演出的思考。如果你也喜欢看演出，没准对你有所启发。
 
 ---
 
