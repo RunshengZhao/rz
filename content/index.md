@@ -21,6 +21,8 @@ Some pages are polished, others are works in progress — and that’s by design
 
 For English-speaking visitors: While most of the content is written in Chinese, I hope you’ll still find something useful or inspiring here.
 
+**Contact**: Runshengzhao@proton.me
+
 ---
 # 👋你好，我是赵润生
 
@@ -31,6 +33,8 @@ For English-speaking visitors: While most of the content is written in Chinese, 
 ***Guitarology 吉他学***🎸 ： 我在这里分享关于吉他的一系列话题，如果你想了解我是怎么理解吉他的，去那里看看吧。
 
 ***Live Review 现场评论***🎵 ：有我记录的一些对现场演出的思考。如果你也喜欢看演出，没准对你有所启发。
+
+**联系我**: Runshengzhao@proton.me
 
 ---
 
