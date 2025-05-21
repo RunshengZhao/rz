@@ -9,24 +9,22 @@ tags:
 ---
 # 👋 Hi, I’m Runsheng Zhao
 
-Welcome to my digital garden — a growing collection of notes, reflections, and resources on jazz guitar, music education, and beyond.
+🧭*** Don’t forget to navigate using the menu button!***
 
-I’m a jazz guitarist and educator based in Denton, Texas, currently pursuing my Master of Music in Jazz Studies at the University of North Texas. When I’m not performing or teaching, I’m thinking deeply about how we learn, how we play, and how ideas evolve over time.
+Welcome to my digital garden — a growing collection of notes, reflections, and resources on jazz guitar, music education, and more.
 
-This site is part **personal wiki**, part **learning archive** — a space where I grow ideas in public, track what I’m exploring, and keep reference material close at hand. Topics you’ll likely run into here include:
+I’m a jazz guitarist and educator based in Denton, Texas, currently pursuing a Master of Music in Jazz Studies at the University of North Texas.
 
-- 🎸 Jazz guitar techniques, analysis, and transcriptions  
-- 🧠 Notes on improvisation, pedagogy, and music philosophy  
-- ✍️ Personal thoughts on learning, writing, and creative discipline  
-- 📚 Academic references and marginalia from books and research  
-- 🧭 Occasional posts on tools, workflows, or tech that help me think better  
+This site is part personal wiki, part learning archive — a space where I develop ideas in public, document what I’m exploring, and keep reference materials within easy reach.
 
-Some pages are polished, others are in-progress — that’s the point. Like a real garden, things here grow organically.
+Some pages are polished, others are works in progress — and that’s by design. Like any real garden, things here grow organically.
+
+For English-speaking visitors: While most of the content is written in Chinese, I hope you’ll still find something useful or inspiring here.
 
 ---
 # 👋你好，我是赵润生
 
-感谢你来到我的个人网站/数字花园。你可以通过旁边的导航可以去不同的地方看看。
+感谢你来到我的个人网站/数字花园。你可以通过旁边的***导航***🧭去不同的地方看看。
 
 ***About Me 关于我***： 个人网站的必备元素都在这里啦，Biography，一些照片和演出视频，还有联系方式。
 
@@ -49,7 +47,7 @@ Thanks for stopping by.
   style="max-width: 600px; font-family: sans-serif; margin: 0 auto; text-align: center;"
 >
   <div style="margin-bottom: 1em;">
-    订阅我的数字花园！<br />
+    Subscribe 订阅我的数字花园！<br />
     (I won't spam you — you'll be lucky if I get my lazy ass up to write something.)
   </div>
 
