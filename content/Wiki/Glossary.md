@@ -10,8 +10,23 @@ tags:
 ### Parent Scale
 统领其下属的6个子音阶的音阶，比如Major Scale, Harmonic Minor Scale, Melodic Minor Scale。
 
+### Reverse Engineering
+The process of analyzing and deconstructing a piece of music to understand how it was made, so you can learn from it, recreate it, or apply similar techniques in your own work.  
+it’s about **examining your own output**, often **after the fact**, to understand what you’ve done _intuitively or unconsciously_.  
+This often happens when a musician:
+1. **Improvises or composes instinctively** — without consciously thinking about theory or structure in the moment.
+    
+2. **Plays something they like** — but doesn’t yet fully understand why it works.
+    
+3. **Goes back and analyzes it** — to extract patterns, structures, or harmonic ideas they can refine, develop, or reuse.
+
+ Reverse engineering your own playing means allowing intuition to lead, then using analysis afterward to understand and develop the ideas that emerged.
+
 ### Root
 根音，在一个和弦中具有主音性质的音，但请与低音区分开，根音通常是最低的音，但在转位中它可以存在于其他音上方。低音（Bass Note）指最低的音
+
+### Triad Pairs
+由两个三和弦组成的一组六音音阶。
 
 
 ---

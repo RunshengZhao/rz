@@ -10,7 +10,8 @@ tags:
 
 > [!info] **有些时候我想音乐可不可以就是一种频率, 在他们的Program里似乎专门有一轨超低音（subbass），专门在现场为你做音波按摩，震得你从头到脚酥酥麻麻。**
 
-五月六日，Mogwai选择了Dallas作为他们北美巡演的终点站。The Echo Lounge & Music Hall. 同样价格不菲的停车费，因为收费员的读卡器有问题而给我免单。这个现场较Granada Theater更新，灯光效果更棒，而场地又稍小一点，更为亲密。
+### May 6 2025
+Mogwai选择了Dallas作为他们北美巡演的终点站。The Echo Lounge & Music Hall. 同样价格不菲的停车费，因为收费员的读卡器有问题而给我免单。这个现场较Granada Theater更新，灯光效果更棒，而场地又稍小一点，更为亲密。
 
 在我写这篇文章的时候，为了回忆起到底是哪天看的演出，凑巧碰到了一篇Dallas Observer写的[乐评](https://www.dallasobserver.com/music/mogwai-closes-north-american-tour-dallas-22247170)，相较于我这种业余选手，这位的乐评更客气，专业。有兴趣可以前去拜读。
 

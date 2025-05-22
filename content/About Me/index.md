@@ -17,8 +17,6 @@ Browse the links below to explogit re different aspects of my life and interests
 
 - [[03-video|Videos]] — Performances, projects, and moments I’ve captured on film.
 
-- [[04-contact|Contact]] — Want to connect? Here’s how to reach me.
-
   
 
 Feel free to explore, and don’t hesitate to reach out if you’d like to connect or collaborate!
