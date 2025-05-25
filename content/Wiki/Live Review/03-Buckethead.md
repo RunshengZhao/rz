@@ -17,7 +17,9 @@ tags:
 
 广播里放着范玮琪的歌，似乎在收着台湾的电台。又是时空错乱的一刻，近日观看了[柴静访谈国共内战幸存者](https://youtu.be/Db17u8E1t0g?si=EsaSMJ2e5VjXszuL), 心有彷徨。
 
-好了， 回到Granada Theater，Buckethead 。
+好了， 回到Granada Theater，Buckethead 。  
+
+![[Buckethead_1.jpeg]]  
 
 演出开始前，旁边不认识的哥们凑过来说，你知道今天是Buckethead的生日吗？我说我不知道。我看到观众席里有几多人都戴上的同款KFC全家桶帽子，心想莫不是来参加Cosplay。
 
