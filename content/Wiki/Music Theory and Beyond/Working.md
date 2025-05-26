@@ -47,7 +47,37 @@ tags:
 
 这件事情对我的启发如上，我对我另外教得两个学生感到十分抱歉，但我无法在机构老板如此推脱责任，不尊重我的基础上，继续前去上课。有些时候人要的不是钱，只是需要尊重。如果这位老板告诉我她们的成本问题，并以一种尊重，协商地态度，承认他们的过失，我相信我可以理解。但正是这种拒绝认错，拒绝负责，推锅到老师身上的态度，促使我一定要写下这篇文章作为自己的警醒。
 
-希望我的经历能为大家提供一些参考和帮助。
+希望我的经历能为大家提供一些参考和帮助。  
+
+---
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/RunshengZhao"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/RunshengZhao', 'popupwindow')"
+  class="embeddable-buttondown-form"
+  style="max-width: 600px; font-family: sans-serif; margin: 0 auto; text-align: center;"
+>
+  <div style="margin-bottom: 1em;">
+    Subscribe 订阅我的数字花园！<br />
+    (I won't spam you — you'll be lucky if I get my lazy ass up to write something.)
+  </div>
+
+  <input
+    type="email"
+    name="email"
+    id="bd-email"
+    placeholder="Your email here..."
+    required
+    style="width: 80%; padding: 0.5em; font-size: 1em; margin-bottom: 0.25em; text-align: center;"
+  /><br />
+
+  <input
+    type="submit"
+    value="Subscribe|订阅!"
+    style="padding: 0.5em 1em; font-size: 1em; background-color: #333; color: white; border: none; border-radius: 4px; cursor: pointer;"
+  />
+</form>
 
 ---
 > [!note] I’d love to hear what you think. Use your GitHub account to leave a comment below!  欢迎用 GitHub 账号在下方留言交流!

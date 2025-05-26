@@ -34,6 +34,8 @@ For English-speaking visitors: While most of the content is written in Chinese, 
 
 ***Live Review 现场评论***🎵 ：有我记录的一些对现场演出的思考。如果你也喜欢看演出，没准对你有所启发。
 
+***Music Theory and Beyond 乐理和其他***🎵 ：一些超过吉他范畴的乐理思考，或许你也能发现一段[[Working|我不愉快的工作经历]]。
+
 **联系我**: Runshengzhao@proton.me
 
 ---
