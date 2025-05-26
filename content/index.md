@@ -53,7 +53,7 @@ Thanks for stopping by.
   style="max-width: 600px; font-family: sans-serif; margin: 0 auto; text-align: center;"
 >
   <div style="margin-bottom: 1em;">
-    Subscribe 订阅我的数字花园！<br />
+    <span style="font-size:1.1em; font-weight:bold;">Subscribe 订阅我的数字花园！</span><br />
     (I won't spam you — you'll be lucky if I get my lazy ass up to write something.)
   </div>
 
@@ -72,3 +72,5 @@ Thanks for stopping by.
     style="padding: 0.5em 1em; font-size: 1em; background-color: #333; color: white; border: none; border-radius: 4px; cursor: pointer;"
   />
 </form>
+
+

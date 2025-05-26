@@ -55,7 +55,7 @@ Buckethead 演出只有他和鼓手两人，其间他邀请了另外一位女性
   style="max-width: 600px; font-family: sans-serif; margin: 0 auto; text-align: center;"
 >
   <div style="margin-bottom: 1em;">
-    Subscribe 订阅我的数字花园！<br />
+    <span style="font-size:1.1em; font-weight:bold;">Subscribe 订阅我的数字花园！</span><br />
     (I won't spam you — you'll be lucky if I get my lazy ass up to write something.)
   </div>
 
@@ -76,7 +76,7 @@ Buckethead 演出只有他和鼓手两人，其间他邀请了另外一位女性
 </form>
 
 ---
-> [!note] 💬 I’d love to hear what you think. Use your GitHub account to leave a comment below!  欢迎用 GitHub 账号在下方留言交流!
+> [!note] I’d love to hear what you think. Use your GitHub account to leave a comment below!  欢迎用 GitHub 账号在下方留言交流!
 
 <script src="https://giscus.app/client.js"
         data-repo="RunshengZhao/rz"
