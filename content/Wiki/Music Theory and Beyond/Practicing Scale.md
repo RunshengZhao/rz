@@ -7,15 +7,7 @@ tags:
   - 
 ---
 
-> [!quote] "Practice your scales until they become intuitively familiar.
-> I once had a student who told me, “I don’t want to practice scales because I don’t want to
-> sound like I’m playing scales when I improvise.” If he were a great player despite his lack of
-> familiarity with scales, I wouldn’t have felt the need to correct him, but this attitude was a
-> defense mechanism mixed with laziness. In my opinion, familiarity with scales simply means
-> you’re intuitively comfortable with tonal playing on your instrument. The vast majority of
-> melodies, lines, and compositions rely on tonal centers, and knowing your scales to the point
-> of intuitive familiarity means you can achieve more efficient ear-hand coordination in those
-> sounds." - Noel Johnston
+> [!quote] "Practice your scales until they become intuitively familiar.  I once had a student who told me, “I don’t want to practice scales because I don’t want to sound like I’m playing scales when I improvise.” If he were a great player despite his lack of familiarity with scales, I wouldn’t have felt the need to correct him, but this attitude was a defense mechanism mixed with laziness. In my opinion, familiarity with scales simply means you’re intuitively comfortable with tonal playing on your instrument. The vast majority of  melodies, lines, and compositions rely on tonal centers, and knowing your scales to the point of intuitive familiarity means you can achieve more efficient ear-hand coordination in those sounds."  — Noel Johnston
 
 我们在如今这个资源爆炸的社会下，获取学习资源成为了一件挑挑选选的事。爵士乐，本就是一个基于经验的学科，意味着，很多所谓在音乐上的概念和理解，都基于人的经验和经历。即使是现在，随着Cognitive Science的发展，音乐的训练也有了科学，Peer-Reviewed 的观点和论文。但，我们在音乐上的认知，大部分还是经由前人的经验构成。
 

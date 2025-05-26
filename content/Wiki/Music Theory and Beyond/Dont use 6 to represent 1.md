@@ -12,6 +12,8 @@ tags:
 ---
 也许我们不谈到底要用6还是1来表示小调主音，我们来聊聊人的思维惯性。
 
+
+
 ---
 <form
   action="https://buttondown.com/api/emails/embed-subscribe/RunshengZhao"
