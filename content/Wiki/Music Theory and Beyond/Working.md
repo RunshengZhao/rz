@@ -1,6 +1,6 @@
 ---
 title: "一段不愉快的工作经历"
-description: ""
+description: "面对华人老板的不守信，我应该如何应对"
 date: 2025-05-25
 draft: false
 tags:

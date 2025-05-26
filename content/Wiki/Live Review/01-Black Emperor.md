@@ -1,6 +1,6 @@
 ---
 title: "Godspeed You! Black Emperor"
-description: ""
+description: "在达拉斯去看黑帝"
 date: 2025-05-16
 draft: false
 tags: 
