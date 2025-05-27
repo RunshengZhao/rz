@@ -6,6 +6,7 @@ draft: false
 tags: 
   - postRock
   - concertReview
+  - post
 ---
 
 ### April 26, 2025

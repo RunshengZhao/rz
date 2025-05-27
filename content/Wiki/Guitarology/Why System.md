@@ -4,7 +4,7 @@ description: "解释为什么吉他需要指法系统。"
 date: 2025-05-15
 draft: false
 tags:
-  - 
+  - post
 ---
 
 解释为什么吉他需要系统。

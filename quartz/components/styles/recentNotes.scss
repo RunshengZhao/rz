@@ -8,9 +8,12 @@
     list-style: none;
     margin-top: 1rem;
     padding-left: 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); // Two columns of equal width
+    gap: 1rem; // Optional: space between columns/rows
 
     & > li {
-      margin: 1rem 0;
+      margin: 0; // Remove vertical margin to avoid extra space
       .section > .desc > h3 > a {
         background-color: transparent;
       }

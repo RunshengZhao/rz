@@ -6,6 +6,7 @@ draft: false
 tags:
   - concertReview
   - rock
+  - post
 ---
 ### May 13, 2025. Tuesday
 

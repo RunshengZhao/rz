@@ -4,7 +4,7 @@ description: "每天练琴多久才行？当我们问别人每天练琴多久的
 date: 2025-05-24
 draft: false
 tags:
-  - 
+  - post
 ---
 
 > One idea per note. What’s the insight here?

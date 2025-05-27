@@ -4,7 +4,7 @@ description: "这篇文章是对是否需要练习音阶等素材的的反馈。
 date: 2025-05-23
 draft: false
 tags:
-  - 
+  - post
 ---
 
 > [!quote] "Practice your scales until they become intuitively familiar.  I once had a student who told me, “I don’t want to practice scales because I don’t want to sound like I’m playing scales when I improvise.” If he were a great player despite his lack of familiarity with scales, I wouldn’t have felt the need to correct him, but this attitude was a defense mechanism mixed with laziness. In my opinion, familiarity with scales simply means you’re intuitively comfortable with tonal playing on your instrument. The vast majority of  melodies, lines, and compositions rely on tonal centers, and knowing your scales to the point of intuitive familiarity means you can achieve more efficient ear-hand coordination in those sounds."  — Noel Johnston

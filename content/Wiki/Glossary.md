@@ -4,7 +4,7 @@ description: "解释名词"
 date: 2025-05-20
 draft: false
 tags:
-  - 
+  - terms
 ---
 
 ### Parent Scale

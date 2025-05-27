@@ -4,7 +4,7 @@ description: "介绍7音系统：7 position system"
 date: 2025-05-20
 draft: false
 tags:
-  - 
+  - post
 ---
 
 > One idea per note. What’s the insight here?

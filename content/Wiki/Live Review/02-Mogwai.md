@@ -6,6 +6,7 @@ draft: false
 tags:
   - postRock
   - concertReview
+  - post
 ---
 
 > [!info] **有些时候我想音乐可不可以就是一种频率, 在他们的Program里似乎专门有一轨超低音（subbass），专门在现场为你做音波按摩，震得你从头到脚酥酥麻麻。**

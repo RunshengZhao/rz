@@ -1,25 +1,44 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SimpleSlug } from "./quartz/util/path"
+
+const recentNotes = [
+  Component.RecentNotes({
+    title: "Recent Notes",
+    limit: 5,
+    showTags: false,
+    filter: (f) =>
+      f.slug!.startsWith("Wiki/"),
+    linkToMore: "Tags/post" as SimpleSlug,
+    // Optional: custom filter, linkToMore, etc.
+  }),
+]
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-  Component.Comments({
-    provider: 'giscus',
-    options: {
-      // from data-repo
-      repo: "RunshengZhao/rz",
-      // from data-repo-id
-      repoId: "R_kgDOOrPyUA",
-      // from data-category
-      category: 'Announcements',
-      // from data-category-id
-      categoryId: "DIC_kwDOOrPyUM4CqW1I",
-    }
-  }),
-],
+    ...recentNotes.map((c) =>
+      Component.ConditionalRender({
+        component: c,
+        condition: (page) => page.fileData.slug === "index",
+      }),
+    ),
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        // from data-repo
+        repo: "RunshengZhao/rz",
+        // from data-repo-id
+        repoId: "R_kgDOOrPyUA",
+        // from data-category
+        category: "Announcements",
+        // from data-category-id
+        categoryId: "DIC_kwDOOrPyUM4CqW1I",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",

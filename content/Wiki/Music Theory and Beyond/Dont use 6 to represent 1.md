@@ -4,7 +4,7 @@ description: "请坚持用1作为任何音阶的主音"
 date: 2025-05-20
 draft: false
 tags:
-  - 
+  - post
 ---
 
 > [!note] 要改变人的思维惯性是很难的一件事情。
