@@ -3,6 +3,7 @@ title: "Guitarology 吉他学"
 description: ""
 date: 2025-05-15
 draft: false
+comments: false
 tags:
   - 
 ---
