@@ -9,7 +9,7 @@ const recentNotes = [
     showTags: false,
     filter: (f) =>
       f.slug!.startsWith("Wiki/"),
-    linkToMore: "Tags/post" as SimpleSlug,
+    linkToMore: "tags/post" as SimpleSlug,
     // Optional: custom filter, linkToMore, etc.
   }),
 ]
