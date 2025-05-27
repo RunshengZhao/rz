@@ -1,6 +1,6 @@
 ---
 title: "Ideology 私货"
-description: "和音乐无关的七七八八"
+description: ""
 date: 2025-05-27
 draft: false
 comments: false
