@@ -1,6 +1,6 @@
 ---
 title: Bio
-description: ""
+description: "About Runsheng Zhao"
 date: 2025-05-14
 draft: false
 comments: false

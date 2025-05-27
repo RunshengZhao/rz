@@ -1,6 +1,6 @@
 ---
 title: "Buckethead makes me hate music"
-description: ""
+description: "Buckethead是个吉他手，但或许叫他艺人更合适。"
 date: 2025-05-14
 draft: false
 tags:

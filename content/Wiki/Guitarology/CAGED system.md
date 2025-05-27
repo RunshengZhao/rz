@@ -1,6 +1,6 @@
 ---
 title: "CAGED System"
-description: ""
+description: "在这篇文章中，我谈论CAGED系统的本质是什么。"
 date: 2025-05-15
 draft: false
 tags:

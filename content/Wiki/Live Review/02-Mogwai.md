@@ -1,6 +1,6 @@
 ---
 title: "Mogwai, 后摇的困境"
-description: ""
+description: "后摇的出路在哪里？或者我们需要期待一条出路吗？"
 date: 2025-05-18
 draft: false
 tags:

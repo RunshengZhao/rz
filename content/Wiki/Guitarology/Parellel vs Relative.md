@@ -1,6 +1,6 @@
 ---
 title: "平行vs相对，另一种系统的可能性"
-description: ""
+description: "介绍7音系统：7 position system"
 date: 2025-05-20
 draft: false
 tags:
