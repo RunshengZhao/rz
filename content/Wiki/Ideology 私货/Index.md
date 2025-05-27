@@ -1,18 +1,14 @@
 ---
-title: "<% tp.file.title %>"
-description: ""
-date: <% tp.date.now("YYYY-MM-DD") %>
+title: "Ideology 私货"
+description: "和音乐无关的七七八八"
+date: 2025-05-27
 draft: false
-comments: true
+comments: false
 tags:
   - 
 ---
 
-> One idea per note. What’s the insight here?
-
-## Why does this matter?
-
-## Connections
+这里是和音乐无关的一些分享。再别说我夹带私货了。这里全是私货。
 
 ---
 <form

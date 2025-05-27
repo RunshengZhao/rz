@@ -1,8 +1,8 @@
 ---
-title: "<% tp.file.title %>"
-description: ""
-date: <% tp.date.now("YYYY-MM-DD") %>
-draft: false
+title: "为什么要用个人网站"
+description: "这里我解释为什么要用个人网站而不是其他平台。"
+date: 2025-05-27
+draft: true
 comments: true
 tags:
   - 
