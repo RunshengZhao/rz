@@ -5,11 +5,12 @@ date: 2025-05-27
 draft: false
 comments: true
 tags:
-  - 
+  - thoughts
+  - musicTheory
 ---
 
 > [!quote] ![[Goodrick quote.png]]  
-Mick Goodrick, The Advancing Guitarist: Applying Guitar Concepts & Techniques (Milwaukee, Wis: Hal Leonard, 2012).
+Mick Goodrick, *The Advancing Guitarist: Applying Guitar Concepts & Techniques* (Milwaukee, Wis: Hal Leonard, 2012).
 
 ---
 ## 定义首调和固定调
@@ -19,7 +20,7 @@ Mick Goodrick, The Advancing Guitarist: Applying Guitar Concepts & Techniques (M
 
 在取舍首调还是固定调之前，我想先对首调和固定调下个定义。固定调也许更容易定义，即用音符本身“绝对”的值来分析音乐，比如，在美国使用更加广泛的字母标注法，A，B， F♯, E♭, 等等，（德国甚至用B-H来记录）。或者如果有人以后以音的频率如440hz， 220hz来表示音高概念也是属于固定调的范畴。    
 
-首调的概念则相对更难定义一点，但总的来说，是以音的相对关系来决定音高概念，比如简谱就是一个典型的首调概念，它把整个谱例融在一个调中，由 1=key 来决定在哪个调中。比如当1=C式， D，F，A，C就组成了它的二级和弦。在简谱当中的表现形式即为2，4，6，1.
+首调的概念则相对更难定义一点，但总的来说，是以音的相对关系来决定音高概念，比如简谱就是一个典型的首调概念，它把整个谱例融在一个调中，由 1=key 来决定在哪个调中。比如当1=C时， D，F，A，C就组成了它的二级和弦。在简谱当中的表现形式即为2，4，6，1.
 在这里我还想引入另外一个概念：级数思维。即每个和弦都有一套独立的级数，它不受调的影响，比如在刚刚二级D，F，A，C的例子中，用级数的表达方式则为，1，♭3，5，♭7.
 
 ## solfège（唱名）? Fixed-do System and Movable-do System
@@ -72,7 +73,7 @@ Mick Goodrick, The Advancing Guitarist: Applying Guitar Concepts & Techniques (M
 
 在即兴和视奏的过程中，有时差别就在这些千钧一发的时刻。你能比别人更快的反应出♭13在哪，你就能更快的检索出自己应该弹些什么。
 
-### 绝对音高和相对音高
+## 绝对音高和相对音高
 也有人提出，如果你是绝对音高就使用固定调，如果你是相对音高就使用首调，也许这也有一定道理。
 
 但不管你的主要使用的思维是什么，这两者都不是互斥的关系，而应该是互补。固定调帮助你试奏，相对音高帮助你分析谱例，就正如Mick Goodrick所说：“Why not learn both?"

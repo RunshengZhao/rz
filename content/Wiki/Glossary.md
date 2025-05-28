@@ -7,10 +7,22 @@ tags:
   - terms
 ---
 
+### ii - V - I
+在爵士中最常用的一组和弦进行。
+
 ### Diatonic
 **Diatonic** refers to notes that belong to a standard seven-note scale (like the major or natural minor scale), without adding extra accidentals (like sharps or flats) outside the key. For example, in C major, the diatonic notes are C-D-E-F-G-A-B. Anything outside that (like F♯ or B♭) is non-diatonic.
 
 顺阶和弦：指的是属于某个七声音阶（例如大调或自然小调）的音符，不包含额外的升降音（例如 # 或 ♭）。比如 C 大调里的顺阶音阶音符是 C-D-E-F-G-A-B，像 F♯ 或 B♭ 这样的就是非顺阶音阶音。
+
+### Modal Scale
+#### Dorian 
+大调中第二条调式
+
+#### Mixolydian
+大调第五条调式
+
+---
 
 ### Non-Functional Harmony
 非功能性和声，和声的作用不再是功能性，即由属到主，副属到属的性质。而是作为色彩性存在。
