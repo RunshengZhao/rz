@@ -21,6 +21,10 @@ tags:
 
 部分书籍延续了从上到下，从右至左的书写阅读顺序。即使当代，一些日本或台湾香港出版社仍会出版这样的书籍。
 
+>[!quote]
+> Proactive inhibition—or interference, as it is most commonly known these days—is a well-documented phenomenon in the brain where old knowledge can prevent us from learning new knowledge if that new knowledge conflicts with the old knowledge.  
+>Molly Gebrian, _Learn Faster, Perform Better_, 1st ed. (Oxford University PressNew York, 2024), [https://doi.org/10.1093/oso/9780197680063.003.0004](https://doi.org/10.1093/oso/9780197680063.003.0004).
+
 ---
 中国的音乐教育有着它quirky的一面，比如[[FixedorMoveable#solfège（唱名）? Fixed-do System and Movable-do System|首调和固定调的混用]]， 再比如把小调主音当作6。事实上人类历史上似乎不怎么存在一种完美的解决方案？想想看手动挡的汽车，也许一个“完美”的系统应该是需要一个加速一个刹车踏板，难以想象人为了运行必须要依照机械的逻辑需要踩离合换挡，并按照这种逻辑设计汽车运行了100多年 ——我爱手动挡，但就算是自动挡，还是有挡位存在。再比如代码，也是人设计出来的一种交互语言，同样也有它设计出来的理由——为了解决某种需求，但人始终在不断发明新的语言来满足日益增长的需求。
 
