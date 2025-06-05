@@ -10,26 +10,48 @@ tags:
 ### ii - V - I
 在爵士中最常用的一组和弦进行。
 
+---
 ### Diatonic
 **Diatonic** refers to notes that belong to a standard seven-note scale (like the major or natural minor scale), without adding extra accidentals (like sharps or flats) outside the key. For example, in C major, the diatonic notes are C-D-E-F-G-A-B. Anything outside that (like F♯ or B♭) is non-diatonic.
 
 顺阶和弦：指的是属于某个七声音阶（例如大调或自然小调）的音符，不包含额外的升降音（例如 # 或 ♭）。比如 C 大调里的顺阶音阶音符是 C-D-E-F-G-A-B，像 F♯ 或 B♭ 这样的就是非顺阶音阶音。
 
-### Modal Scale
-#### Dorian 
-大调中第二条调式
-
-#### Mixolydian
-大调第五条调式
+---
+### Harmonic Minor | 和声小调
 
 ---
 
+### Melodic Minor | 旋律小调
+
+---
+### Modal Scale
+#### Dorian 
+大调中第二条调式  
+排列为: 1-2-♭3-4-5-6-♭7
+
+#### Mixolydian
+大调第五条调式  
+排列为: 1-2-3-4-5-6-♭7
+
+#### Aeolian
+大调第六条调式  
+排列为: 1-2-♭3-4-5-♭6-♭7
+
+---
+
+### Natural Minor | 自然小调
+以大调的第六级建立起来的小调，也称为*Aeolian*.  
+排列为: 1-2-♭3-4-5-♭6-♭7
+
+---
 ### Non-Functional Harmony
 非功能性和声，和声的作用不再是功能性，即由属到主，副属到属的性质。而是作为色彩性存在。
 
+---
 ### Parent Scale
 统领其下属的6个子音阶的音阶，比如Major Scale, Harmonic Minor Scale, Melodic Minor Scale。
 
+---
 ### Reverse Engineering
 The process of analyzing and deconstructing a piece of music to understand how it was made, so you can learn from it, recreate it, or apply similar techniques in your own work.  
 it’s about **examining your own output**, often **after the fact**, to understand what you’ve done _intuitively or unconsciously_.  
@@ -42,9 +64,11 @@ This often happens when a musician:
 
  Reverse engineering your own playing means allowing intuition to lead, then using analysis afterward to understand and develop the ideas that emerged.
 
+---
 ### Root
 根音，在一个和弦中具有主音性质的音，但请与低音区分开，根音通常是最低的音，但在转位中它可以存在于其他音上方。低音（Bass Note）指最低的音
 
+---
 ### Triad Pairs
 由两个三和弦组成的一组六音音阶。
 
