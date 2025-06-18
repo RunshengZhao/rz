@@ -10,6 +10,14 @@ tags:
 
 Some videos about me.
 
+---
+## My One and Only Love
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ca-w92Aln80?si=usHNBF0BBumJ3Vq-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Inspired by Ben Monder and Ted Greene, this is my rendition of the beautiful standard, My One and Only Love.
+
+---
+
 ## Impressions
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_Yurz7xas0A?si=78N0SUAXZU7tDd46&amp;start=135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
