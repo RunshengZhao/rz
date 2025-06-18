@@ -24,6 +24,13 @@ tags:
 ### Melodic Minor | 旋律小调
 
 ---
+### Major 7th | 大七和弦
+大七和弦的组成音为： 1-3-5-7，存在于大调I, IV, V级。
+
+---
+### Minor 7th | 小七和弦
+小七和弦组成音为: 1-♭3-5-♭7, 存在于大调ii，iii，vi级
+
 ### Modal Scale
 #### Dorian 
 大调中第二条调式  
