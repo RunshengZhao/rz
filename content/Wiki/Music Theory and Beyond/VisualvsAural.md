@@ -5,7 +5,7 @@ date: 2025-05-27
 draft: true
 comments: true
 tags:
-  - 
+  - post
 ---
 
 Maybe it's opinion based。

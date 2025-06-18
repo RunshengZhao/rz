@@ -5,7 +5,7 @@ date: 2025-06-06
 draft: true
 comments: true
 tags:
-  - 
+  - post
 ---
 
 > One idea per note. What’s the insight here?

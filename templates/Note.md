@@ -5,7 +5,7 @@ date: <% tp.date.now("YYYY-MM-DD") %>
 draft: false
 comments: true
 tags:
-  - 
+  - post
 ---
 
 > One idea per note. What’s the insight here?

@@ -5,7 +5,7 @@ date: 2025-06-18
 draft: false
 comments: true
 tags:
-  - 
+  - post
 ---
 
 一个可以互动的[级数钟](https://runshengzhao.github.io/pitch-class-clock/)。
@@ -26,7 +26,7 @@ tags:
 3. 旋转这个多边形就可以得出它在不同级数的表现。你也可以通过它来找到不同的转位。
 当一个Major： 1-3-5开始转位时，你可以得到1-4-6， 1-♭3-♭6
 ![[pitchClassClockExample_1.jpg]]
-4. 查看在什么音阶里包含这个pitch set。比如你可以看的Major 三和弦存在于那些音阶里。
+4. 查看在什么音阶里包含这个pitch set。比如你可以看的Major 三和弦存在于哪些音阶里。
 ![[pitchClassClockExample_2.png]]
 *可见三和弦存在于大调1-4-5级上，etc*
 5. 不知道即兴用哪条音阶？点击音阶的和弦组成音即可。

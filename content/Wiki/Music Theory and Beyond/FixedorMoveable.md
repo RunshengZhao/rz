@@ -7,6 +7,7 @@ comments: true
 tags:
   - thoughts
   - musicTheory
+  - post
 ---
 
 > [!quote] ![[Goodrick quote.png]]  

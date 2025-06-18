@@ -5,7 +5,7 @@ date: 2025-06-06
 draft: false
 comments: true
 tags:
-  - 
+  - post
 ---
 
 > [!quote] "我想要拿一个音乐文凭，但我又不想学古典，所以我就来学习爵士。"
