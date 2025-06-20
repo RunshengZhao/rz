@@ -17,7 +17,7 @@ tags:
 # 功能
 这个级数钟大部分的灵感是汲取于我的老师Noel Johnston的[Voicing Mode App](https://www.noeljohnston.com/voicingmodeswebapp1.html)。在很多时候我不知道该怎么即兴或者需要一个Reference来源的时候，我都会咨询那个网页APP。现在在那个网页的基础上，这个[级数钟](https://runshengzhao.github.io/pitch-class-clock/)有这样一些功能：
 - 一个基于[Pitch Class](https://pressbooks.uiowa.edu/twentieth-and-twenty-first-century-music/chapter/pitch-class/)的级数钟，在Pitch Class 里，C = 0， 但是这里的级数钟其实是首调概念，所以12点钟方向是以1开始。
-- 四条[[Glossary#Parent Scale|Parent Scale]],  到目前为止有四条主音阶和旗下的modes。大调，和声小调，旋律小调，和和声大调。应该能满足绝大多数的情况。
+- 四条[[Glossary#Parent Scale|Parent Scale]],  到目前为止有四条主音阶和其下的modes。大调，和声小调，旋律小调，和和声大调。应该能满足绝大多数的情况。
 - 旋转。Transposition。把整个pitch-class转调，可以形象的固定住pitch class的相对音程，并把它放到不同的级数上去。
 
 # 如何使用
@@ -45,6 +45,12 @@ tags:
 
 ![[pitchClassClockExample_4.png]]
 ***当然如果你见到大七就想用Lydian ♯9，千万别说是我教的。在使用这些modal scale的时候一定要慎重考虑作曲家的意图和是否合适。***
+
+## 平行结构
+当一组音列存在于一条[[Glossary#Parent Scale|主音阶]]的多个调式当中，就意味这这组音可以在这条音阶上平行移动，对于吉他手来说，这意味着可以保持这个指型弹奏。同样因为音列本身的结构保持着不变，意味着你的旋律线条保持了内在的结构完整，且也获得像模进一样的线条。  
+![[pitchClassClockExample_5.png]]
+最经典的比如1-♭3-4-♭7这组音列，存在于4条音阶上，意味着你可以平行移动4次也还是在一条主音阶里。
+
 
 ---
 我自己还在考虑这个钟的实际用法，还有待我整理出来。
