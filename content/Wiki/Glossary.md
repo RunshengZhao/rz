@@ -11,6 +11,10 @@ tags:
 在爵士中最常用的一组和弦进行。
 
 ---
+### Chord Scale
+一个和弦对应一条音阶的思维方式。Jamey Aebersold把这种思考方式发扬开来。比如一条ii-V-I的进行，ii级弹ii Dorian，V级弹V Mixolydian，I级弹 I Ionian.
+
+---
 ### Diatonic
 **Diatonic** refers to notes that belong to a standard seven-note scale (like the major or natural minor scale), without adding extra accidentals (like sharps or flats) outside the key. For example, in C major, the diatonic notes are C-D-E-F-G-A-B. Anything outside that (like F♯ or B♭) is non-diatonic.
 
@@ -22,6 +26,10 @@ tags:
 ---
 
 ### Melodic Minor | 旋律小调
+#### Altered Scale
+Altered Scale 是旋律小调的第7个调式，也是最后一个调式。它的组成音为：1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7。    
+又因♭3 = ♯2 ♭4=3 ♭6 = ♯5， 也可以写作：1 ♭2 ♯2 3 ♭5 ♯5 ♭7。 也可以理解成：除了Dominant 7th（属七）和弦的根音和chord tone， 所有其他的音都经过变换。  
+常用于 ii-V-I进行中的V.
 
 ---
 ### Major 7th | 大七和弦

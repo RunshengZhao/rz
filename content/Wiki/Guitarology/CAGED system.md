@@ -68,7 +68,7 @@ Lydian: 1 -2 - 3 - ♯4 -5 - 6- 7
 
 比如同时也可以用 2-3-4-5-6-7-1的逻辑来表示Dorian音阶；**但这里绝不是在鼓励用不是1的级数来表示根音，我强烈反对用6来表示小调的主音，详情请参见**[[Dont use 6 to represent 1|小调的主音不是6！]]  我的意思，是要掌握各个调式之间的关系，这样你可以快速的找到其[[Glossary#Parent Scale|Parent Scale]]，并用[[Glossary#Parent Scale|Parent Scale]]帮助你即兴。比如：用B♭ Major在 C Minor7 上即兴, 比如用 B Major Scale 在 E Major7♯11 上即兴。
 
-有一个更好的系统？或者有另外一个系统能够帮助你解答调式之间的“平行”和“关系”的问题吗？有的，请参见[[Parellel vs Relative|平行vs相对，另一种系统的可能性]], 在那里，我将详细讲解另外一种系统。
+有一个更好的系统？或者有另外一个系统能够帮助你解答调式之间的“平行”和“关系”的问题吗？有的，请参见[[Parallel vs Relative|平行vs相对，另一种系统的可能性]], 在那里，我将详细讲解另外一种系统。
 
 ---
 <form

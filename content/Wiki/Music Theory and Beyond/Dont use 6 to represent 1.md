@@ -52,7 +52,7 @@ tags:
 首先我们要把小调当作6的思维方式扩展到整个音阶体系当中，总结为：它其实以一种[[Glossary#Parent Scale|Parent Scale]]来主导其下所有子音阶的思维方式。既然它可以把小调当作6，那么同样的，它也可以把[[Glossary#Dorian|Dorian]]当作以2开始的音阶：2-3-4-5-6-7-1.  
 再比如，在一套[[Glossary#ii - V - I|ii-V-I]]进行当中，只用主调的音阶思考，而不去考虑 ii [[Glossary#Dorian|Dorian]]或者 V [[Glossary#Mixolydian|Mixolydian]] 。这样的思考方式是最安全，也是在部分曲目当中符合作曲家逻辑的思考方式。
 
-关于平行和关系调式的思维方式，其实也主导了整个吉他学习的重点，理解了其中的奥秘，就能大大提升你对音乐的认知。详细的解释请阅读：[[Parellel vs Relative]]。
+关于平行和关系调式的思维方式，其实也主导了整个吉他学习的重点，理解了其中的奥秘，就能大大提升你对音乐的认知。详细的解释请阅读：[[Parallel vs Relative]]。
 
 
 

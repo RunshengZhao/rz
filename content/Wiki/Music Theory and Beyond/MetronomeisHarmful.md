@@ -1,17 +1,21 @@
 ---
-title: "平行vs相对，另一种系统的可能性"
-description: "介绍7音系统：7 position system"
-date: 2025-05-20
-draft: false
+title: "节拍器有害论"
+description: "节拍器也能有害？"
+date: 2025-06-28
+draft: true
+comments: true
 tags:
   - post
 ---
 
-> One idea per note. What’s the insight here?
+最近在B站刷到一个批判“节拍器有害论”的视频。联想到最近在看的*Learn Faster, Perform Better* 一书，想借此反驳一下”反驳节拍器有害论“的视频。
 
-## Why does this matter?
+# 节拍器有害论
 
-## Connections
+# 反驳“反驳节拍器有害论”
+## Swing 
+
+## Layback
 
 ---
 <form
@@ -62,3 +66,4 @@ tags:
         crossorigin="anonymous"
         async>
 </script>
+

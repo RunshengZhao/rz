@@ -1,0 +1,36 @@
+---
+title: "Position 4"
+description: ""
+date: 2025-07-03
+draft: false
+comments: false
+tags:
+  - appendix
+---
+# [[01-Harmonic Minor]]
+
+![[Har_Pos_4.png]]
+
+# [[02-Locrian ♮6]]
+
+![[Locrian_nat_6_4.png]]
+
+# [[03-Ionian ♯5]]
+
+![[Ionian_Sharp5_4.png]]
+
+# [[04-Dorian ♯4]]
+
+![[Dorian_Sharp4_4.png]]
+
+# [[05-Phrygian Dominant]]
+
+![[Phrygian Dominant_4.png]]
+
+# [[06-Lydian ♯9]]
+
+![[Lydian_Sharp9_4.png]]
+
+# [[07-Superlocrian ♭♭7]]
+
+![[Ultralocrian_4.png]]
