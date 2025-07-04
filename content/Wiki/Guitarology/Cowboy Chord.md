@@ -3,6 +3,7 @@ title: "牛仔和弦害你学不会吉他"
 description: "也许吉他手们应该放弃用牛仔和弦作为入门的第一个和弦。"
 date: 2025-05-19
 draft: false
+comments: true
 tags:
   - post
 ---
