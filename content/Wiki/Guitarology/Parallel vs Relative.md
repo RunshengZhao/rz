@@ -1,8 +1,8 @@
 ---
 title: "平行vs相对，另一种系统的可能性"
 description: "介绍7音系统：7 position system"
-date: 2025-05-20
-draft: true
+date: 2025-08-21
+draft: false
 comments: true
 tags:
   - post
@@ -34,7 +34,22 @@ tags:
 
 那么通过这样两条规则，我们得出，7音音阶则会存在7组指型。从1级开始到7级。那么我把它叫做Position 1-7. 关键在于这里：***所有的position，1-7永远指代的是主音阶的级数，而非其下子音阶的级数。***， 这就意味着，我们同样还是需要把子音阶整理为以主音阶的级数为准的音阶。比如Dorian为：2-3-4-5-6-7-1。这也意味着我们把所有的音阶整理成了主音阶的形式。
 
-这里有一份
+[[01-Major(Ionian)|Major]] 列出了在7音系统中Major的7条音阶指型。当然在[[02-Dorian|Dorian]]当中，我们还是这样的指型，甚至对他们的称呼：Position1-7都是以它的[[Glossary#Parent Scale|Parent Scale]]为准。
+
+## 优势
+七音指型对于CAGED系统的优势在于，它是以一条音阶统领整个其下的调式音阶。这就意味着在一条Diatonic的和声进行当中，你可以用一条音阶弹奏所有的进行。这也是现代的爵士教育家针对[[Glossary#Chord Scale|Chord Scale]] 理论的一种批判。 即一条2-5-1的进行当中，以 D Dorian - G Mixolydian - C Ionian 的思维方式思考时，它其实都是同一条 C Major 音阶。
+
+*关于对于[[Glossary#Chord Scale|Chord Scale]] 的批判还可参见Ethan Iverson的[这篇文章](https://ethaniverson.com/received-wisdom-jeff-goldblum-chord-scales-the-ireal-book-and-kamasi-washington/)。*
+
+# 那到底用CAGED 还是 7 Position？
+两种思维模式其实追究其核心是对于Relative Scale和Parallel Scale的思考。比如，你会听到这样的技巧：“在属七和弦上弹比它高半音的旋律小调。” 这其实就是一种Relative Scale的思维方式。你只需要弹那个旋律小调，就能创造出Super Locrian的声音效果。那么7 position system会更为合适。当然如果你可以以1-♭2-♯2-3-♯4-♯5-♭7的方式去思考，那么你其实用的是CAGED的指型方式。在面对很多音阶的时候，我个人的经验是，往往CAGED会对你的思维方式要求严格一些。因为你需要掌握每一个Mode， 而7 position， 你只需要知道那个Mode的根音是在主音上的几级即可。
+
+> [!example] 如果我想弹一条B Lydian音阶。如果我知道Lydian 意味着大调4级，我可以把用食指按住6弦7品的 B的指型当作大调的 Position 4， 即[[04-Lydian#Position 4 in Major|Position 4]]这个指型。
+
+> [!example] 如果我想弹一条A♭ Locrian ♮6 音阶， 那么A♭是一个旋律小调的6级，如果在5弦11品找到了A♭，我们可以推出它的1级在6弦7品，即从那个位置弹一个[[06-Locrian ♮2#Position 1 in Mel Minor|旋律小调]]即可。
+
+我希望这样的解释足够清晰。我理解这些思考方式非常抽象，需要一定时间消化。如果你还有问题，可以留言询问。
+
 
 ---
 <form
