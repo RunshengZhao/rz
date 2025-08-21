@@ -22,5 +22,7 @@ tags:
 
 ---
 
+I spent a lot of time pressing button for [Anki](https://apps.ankiweb.net/), 
+I asked ChatGPT to generate a guy that obsessed with ANKI, and here you go: 
 ![[Ankiman.png]]
 
