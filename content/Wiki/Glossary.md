@@ -11,8 +11,18 @@ tags:
 在爵士中最常用的一组和弦进行。
 
 ---
+### Back Cycling
+一系列的从属到主，主变成下一个主的属的进行，但属和主都是属和弦。比如A7-D7-G7-C7， 比如Rhythm Changes 的B段。
+
+---
 ### Chord Scale
 一个和弦对应一条音阶的思维方式。Jamey Aebersold把这种思考方式发扬开来。比如一条ii-V-I的进行，ii级弹ii Dorian，V级弹V Mixolydian，I级弹 I Ionian.
+
+---
+### Chunking
+Chunking is a cognitive process in which individual pieces of information are grouped together into larger, meaningful units (called chunks), making them easier to remember and retrieve.
+
+Instead of remembering many separate, unrelated items, the brain organizes them into patterns or structures, which reduces the load on short-term memory and enhances long-term retention.
 
 ---
 ### Diatonic
