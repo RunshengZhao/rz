@@ -15,10 +15,12 @@ If you don't know Anki, learn more from their [official website](https://apps.an
 If you don't know why you want to use Anki, they have a manual I encourage you to read, especially the **[background](https://docs.ankiweb.net/background.html).**
 plenty of YouTube videos can share their stories, for example, [this](https://youtu.be/_MWtbI4IwfU?si=DTaORHUO86E4Ui5Y) tells you how to learn language with Anki, but you can literally memorize anything with Anki, if you know how to make cards.
 
+Here is an article: [How to Use Anki: An Efficient Tutorial for Beginners](https://leananki.com/how-to-use-anki-tutorial/) 
+
 If you want to dig a little bit more about FSRS, the algorithm Anki use for now, here is the [wiki](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm).
 
 # Sight Reading on Guitar
-Sight Reading on Guitar is hard because: 
+Sight reading on the guitar is hard because: 
 - You never learned score. Guitarist usually learn by ear or tab.
 - You are dealing with so many repeated notes. 
 - You need to deal with fingerings on the spot.
@@ -33,18 +35,20 @@ But sight reading is important If you want to be a professional guitarist becaus
 
 ---
 
-So this is my attempt to help you with sight reading. an Anki deck with notes from lowest note to the hight C5 on guitar (1st string 20 fret), with enharmonic spelling as well. and all notes mark on a 22-fret guitar fretboard diagram.
+So this is my attempt to help you with sight reading. an Anki deck with notes from lowest note to the high C5 on guitar (1st string 20 fret), with enharmonic spelling as well. and all notes mark on a 22-fret guitar fretboard diagram.
 
 # Import the deck into your Anki
+Make sure you have Anki installed to your PC or Mac, then go to: [Single Note - Guitar Sight Reading](https://ankiweb.net/shared/info/1393597470?cb=1757703792256) to download the deck.
+
+Once downloaded, you can import this deck into your Anki.
 
 # How to use this deck?
 
-The front of these flashcards will should you a single note on treble clef. and you need to play all positions on Guitar.
+The front of each flashcard shows a single note on the treble clef.
 ![[sightReading_1.png]]
-
-
-The back of these flashcards show what note this is and the notes on fretboard. 
+The back shows the note name and its locations on the guitar fretboard.
 ![[sightReading_2.png]]
+**Your task: play all positions of that note on the guitar within a limited time.**
 Check your answers if you can't find the notes or check if you played all the positions. If you failed, click on "again," if you succeed, press "good"
 
 # Details 
