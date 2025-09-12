@@ -38,7 +38,7 @@ But sight reading is important If you want to be a professional guitarist becaus
 So this is my attempt to help you with sight reading. an Anki deck with notes from lowest note to the high C5 on guitar (1st string 20 fret), with enharmonic spelling as well. and all notes mark on a 22-fret guitar fretboard diagram.
 
 # Import the deck into your Anki
-Make sure you have Anki installed to your PC or Mac, then go to: [Single Note - Guitar Sight Reading](https://ankiweb.net/shared/info/1393597470?cb=1757703792256) to download the deck.
+Make sure you have Anki installed to your PC or Mac, then go to: [Single Note - Guitar Sight Reading](https://ankiweb.net/shared/info/1393597470?cb=1757704163263) to download the deck.
 
 Once downloaded, you can import this deck into your Anki.
 
