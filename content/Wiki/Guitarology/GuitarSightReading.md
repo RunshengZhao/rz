@@ -8,59 +8,75 @@ tags:
   - post
 ---
 
-This is for people who struggle with sight reading on Guitar.
+This deck is designed for guitarists who struggle with sight reading.
 
-If you don't know Anki, learn more from their [official website](https://apps.ankiweb.net/) or [Wiki](https://www.wikiwand.com/en/articles/Anki_(software))
+If you don’t know Anki, learn more from their [official website](https://apps.ankiweb.net/) or [Wiki](https://www.wikiwand.com/en/articles/Anki_(software)).
 
-If you don't know why you want to use Anki, they have a manual I encourage you to read, especially the **[background](https://docs.ankiweb.net/background.html).**
-plenty of YouTube videos can share their stories, for example, [this](https://youtu.be/_MWtbI4IwfU?si=DTaORHUO86E4Ui5Y) tells you how to learn language with Anki, but you can literally memorize anything with Anki, if you know how to make cards.
+If you’re not sure why you’d want to use Anki, I encourage you to read the **[background section](https://docs.ankiweb.net/background.html)** of their manual.  
+There are also plenty of YouTube videos sharing personal experiences—for example, [this one](https://youtu.be/_MWtbI4IwfU?si=DTaORHUO86E4Ui5Y) explains how to learn languages with Anki. But the same principles apply: you can memorize *anything* with Anki, once you know how to make effective cards.
 
-Here is an article: [How to Use Anki: An Efficient Tutorial for Beginners](https://leananki.com/how-to-use-anki-tutorial/) 
+Here’s a useful article: [How to Use Anki: An Efficient Tutorial for Beginners](https://leananki.com/how-to-use-anki-tutorial/).
 
-If you want to dig a little bit more about FSRS, the algorithm Anki use for now, here is the [wiki](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm).
+If you want to dig deeper into FSRS, the algorithm Anki currently uses, check out this [wiki](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm).
 
 # Sight Reading on Guitar
-Sight reading on the guitar is hard because: 
-- You never learned score. Guitarist usually learn by ear or tab.
-- You are dealing with so many repeated notes. 
-- You need to deal with fingerings on the spot.
-- You have a limited set of fretboard pattern you can follow. then you don't have enough time to corporate what's on score into you finger patterns.
-- You never had any chance to sight read. You never have the need or opportunity to sight read, so Why would you be good at it?
+Sight reading on guitar is challenging because: 
+- Many guitarists never learn standard notation, but instead rely on ear or tablature.
+- The same pitch can appear in multiple places on the fretboard.
+- You must decide fingerings on the spot.
+- Fretboard patterns are limited, and there’s often not enough time to map written notes to finger positions.
+- You rarely get chances to sight read in practice or performance, so the skill never develops.
 
-But sight reading is important If you want to be a professional guitarist because:
-- Nobody in the band will give you a tab.
-- you want a quick access to a wider repertoire. You don't need to rely on publisher to give you a tab of Bach sonata, plus I don't think there is guitar tab for Bach or violin etude.
--  You want to learn faster, with improvisation and theory.
-- You want to be confident with all kinds of occasion like audition or jam session.
+Yet sight reading is important if you want to be a professional guitarist, because:
+- No one in a band will hand you a tab.
+- It gives you quick access to a much wider repertoire—you don’t need a tab for a Bach sonata or a violin étude.
+- It helps you learn faster, and connects directly to improvisation and theory.
+- It builds confidence in auditions, jam sessions, and other professional situations.
 
 ---
 
-So this is my attempt to help you with sight reading. an Anki deck with notes from lowest note to the high C5 on guitar (1st string 20 fret), with enharmonic spelling as well. and all notes mark on a 22-fret guitar fretboard diagram.
+This deck is my attempt to help with sight reading.  
+It covers notes from the lowest pitch on guitar up to high C5 (1st string, 20th fret), including enharmonic spellings. All notes are marked on a 22-fret guitar fretboard diagram.
 
-# Import the deck into your Anki
-Make sure you have Anki installed to your PC or Mac, then go to: [Single Note - Guitar Sight Reading](https://ankiweb.net/shared/info/1393597470?cb=1757704163263) to download the deck.
+# Import the Deck into Anki
+Make sure Anki is installed on your computer. Then download the deck here: [Single Note - Guitar Sight Reading](https://ankiweb.net/shared/info/1393597470?cb=1757704163263).
 
-Once downloaded, you can import this deck into your Anki.
+Once downloaded, import the deck into Anki.
 
-# How to use this deck?
-
-The front of each flashcard shows a single note on the treble clef.
+# How to Use This Deck
+The **front** of each flashcard shows a single note on the treble clef.  
 ![[sightReading_1.png]]
-The back shows the note name and its locations on the guitar fretboard.
-![[sightReading_2.png]]
-**Your task: play all positions of that note on the guitar within a limited time.**
-Check your answers if you can't find the notes or check if you played all the positions. If you failed, click on "again," if you succeed, press "good"
 
-# Details 
+The **back** shows the note name and its positions on the guitar fretboard.  
+![[sightReading_2.png]]
+
+**Your task:** play *all positions* of that note on the guitar within the time limit.  
+Check the answer side if you missed a position or weren’t sure. If you didn’t get them all, click **again**. If you succeeded, click **good**.
+
+# Settings & Tips
 ### Auto Advance
-Auto Advance is set to 10 seconds for now, which means you have 10 seconds to play the notes. **But you have to press "Shift + a" to enable it first when you are on studying screen.** You can change this setting to give you more or less time in deck option.
-### Be Honest!
-The algorithm will only work if you are honest about whether you really know the notes. If you didn't  remember ALL the notes on time, or played an adjacent note instead of the correct one, press **again**! Usually I ignore the hard and easy button, if you really want to press these two,  never press "hard" when you should have press "again".
-### Be consistent
-This method is good if you can be consistent. You will improve more if you can review and learn new cards **every day.** If you feel like there are too many cards to learn or review, you can adjust the setting in deck option. Adjust how many cards to learn based on how much time you want to spend on this deck every day. I recommend spend 25-30 minutes every day on this deck.
+Auto Advance is currently set to 10 seconds, meaning you have 10 seconds to play the notes.  
+**Important:** you must press **Shift + A** to enable it when studying.  
+You can change this setting in the deck options to allow more or less time.
+
+### Be Honest
+The algorithm only works if you’re honest about your answers. If you missed *any* positions or played a wrong note, press **again**.  
+I usually ignore the **hard** and **easy** buttons. If you use them, never press **hard** when you really should press **again**.
+
+### Be Consistent
+This method works best with consistency. Aim to review and learn new cards **every day**.  
+If there are too many cards, adjust the daily new card/review limits in the deck options.  
+I recommend spending **25–30 minutes a day** on this deck.
 
 # Be Creative
-This is only a start on your sight reading journey. You can start to make your own cards if you know how to use Anki. **Chunk several notes together, sight reading chords, rhythmic patterns.** There are a lot more you can learn and design your own cards and decks.
+This deck is only a starting point in your sight reading journey. Once you’re comfortable, try creating your own cards:  
+- Chunk multiple notes together.  
+- Practice sight reading chords.  
+- Add rhythmic patterns.  
+
+There’s a lot more you can explore by designing your own cards and decks as well.  
+
+If you have any question or thoughts you want to share, leave me a comment or email me at: Runshengzhao@Proton.me
 
 ---
 <form
