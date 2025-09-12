@@ -1,23 +1,14 @@
 ---
-title: "节拍器有害论"
-description: "节拍器也能有害？"
-date: 2025-06-28
+title: "Swans"
+description: ""
+date: 2025-09-12
 draft: true
 comments: true
 tags:
   - post
 ---
 
-最近在B站刷到一个批判“节拍器有害论”的视频。联想到最近在看的*Learn Faster, Perform Better* 一书，想借此反驳一下”反驳节拍器有害论“的视频。
-
-# 节拍器有害论
-
-# 反驳“反驳节拍器有害论”
-## Swing 
-
-## Layback
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WoBLi5eE-wY?si=NVfya1RTNwJjzHCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+比黑帝还要黑帝？
 
 ---
 <form
