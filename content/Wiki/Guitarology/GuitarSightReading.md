@@ -68,6 +68,11 @@ This method works best with consistency. Aim to review and learn new cards **eve
 If there are too many cards, adjust the daily new card/review limits in the deck options.  
 I recommend spending **25–30 minutes a day** on this deck.
 
+### Vary your playing order
+When memorizing, it’s easy to fall into familiar patterns. For example, you might always move from the low strings to the high strings. This can make it feel like you’ve learned all the notes, when in reality you’re relying on that one direction. If asked to find the same notes in reverse or in a random order, you may get stuck.
+
+Once you feel confident, challenge yourself by playing the same notes in a different order—reverse the direction, skip around, or even choose notes at random. This helps you build true flexibility and recall.
+
 # Be Creative
 This deck is only a starting point in your sight reading journey. Once you’re comfortable, try creating your own cards:  
 - Chunk multiple notes together.  
@@ -77,6 +82,9 @@ This deck is only a starting point in your sight reading journey. Once you’re 
 There’s a lot more you can explore by designing your own cards and decks as well.  
 
 If you have any question or thoughts you want to share, leave me a comment or email me at: Runshengzhao@Proton.me
+
+---
+Disclaimer: An LLM was used to assist with spelling, grammar, and wording improvements in this text.
 
 ---
 <form
