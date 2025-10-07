@@ -7,6 +7,9 @@ comments: true
 tags:
   - post
 ---
+
+**Sept 9th, 2025**
+
   去看Swans之前我对其并不了解。但似乎知道他好像和后摇有所联系。Granada Theater说他们和黑帝很搭。所以抱着试试看的心态，我就去看了。
 
 看之前决定要补补课，于是从podcast里找出了五月份采访Swans的主创Micheal Gira的访谈来听。 主持问他，你今天感觉怎么样？他说，I have no idea. 主持问他现在住哪？ 他说，somewhere. 又问他 east coast or west coast, 他回答 no coast.
