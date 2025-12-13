@@ -4,7 +4,7 @@ import { SimpleSlug } from "./quartz/util/path"
 
 const recentNotes = [
   Component.RecentNotes({
-    title: "Recent Notes",
+    title: "Recent Writing",
     limit: 5,
     showTags: false,
     filter: (f) =>

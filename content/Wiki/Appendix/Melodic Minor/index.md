@@ -5,7 +5,7 @@ date: 2025-07-03
 draft: false
 comments: true
 tags:
-  - post
+  - appendix
 ---
 
 这里是所有的Melodic Minor音阶，以调式和指型两种组织方式排列出来。
