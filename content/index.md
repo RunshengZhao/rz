@@ -8,35 +8,43 @@ tags:
   - 
 ---
 # 👋 Hi, I’m Runsheng Zhao
+<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
+  <!-- Left Text -->
+  <div style="flex: 1; min-width: 250px;">
+🧭<b>Don’t forget to navigate using the menu button!</b>
 
-🧭***Don’t forget to navigate using the menu button!***
+Runsheng Zhao is a jazz guitarist and educator based in Denton, Texas. He is currently pursuing a Master of Music in Jazz Studies at the University of North Texas, where he also serves as a Teaching Fellow for the Super 400 guitar ensemble.
 
-Welcome to my digital garden — a growing collection of notes, reflections, and resources on jazz guitar, music education, and more.
+He has performed with the UNT Latin Jazz Lab Band and various small combos, appearing at the Denton Arts & Jazz Festival as well as local venues such as Steve’s Winehouse and Harvest House.
 
-I’m a jazz guitarist and educator based in Denton, Texas, currently pursuing a Master of Music in Jazz Studies at the University of North Texas.
-
-This site is part personal wiki, part learning archive — a space where I develop ideas in public, document what I’m exploring, and keep reference materials within easy reach.
-
-Some pages are polished, others are works in progress — and that’s by design. Like any real garden, things here grow organically.
+Runsheng’s pedagogical interests focus on cognitive science and music education philosophy. He believes a praxial approach to music aligns closely with the jazz tradition he loves.
 
 For English-speaking visitors: While most of the content is written in Chinese, I hope you’ll still find something useful or inspiring here.
 
-**Contact**: Runshengzhao@proton.me
+***Feel free to reach out: Runshengzhao@proton.me***
+  </div>
+
+  <!-- Right Image -->
+  <div style="flex-shrink: 0;">
+    <img src="photo/RunshengYjRecital_1.jpg" alt="Runsheng Portrait" style="max-width: 250px; width: 100%; border-radius: 10px;">
+  </div>
+
+</div>
 
 ---
 # 👋你好，我是赵润生
 
 感谢你来到我的个人网站/数字花园。你可以通过旁边的***导航***🧭去不同的地方看看。
 
-***About Me 关于我***： 个人网站的必备元素都在这里啦，Biography，一些照片和演出视频，还有联系方式。
+[[About Me/index|About Me 关于我]]： 个人网站的必备元素都在这里啦，Biography，一些照片和演出视频，还有联系方式。
 
-***Guitarology 吉他学***🎸 ： 我在这里分享关于吉他的一系列话题，如果你想了解我是怎么理解吉他的，去那里看看吧。
+[[Wiki/Guitarology/index|Guitarology吉他学🎸]] ： 我在这里分享关于吉他的一系列话题，如果你想了解我是怎么理解吉他的，去那里看看吧。
 
-***Live Review 现场评论***🎵 ：有我记录的一些对现场演出的思考。如果你也喜欢看演出，没准对你有所启发。
+[[Wiki/Live Review/index|Live Review 现场评论🎵]]：有我记录的一些对现场演出的思考。如果你也喜欢看演出，没准对你有所启发。
 
-***Music Theory and Beyond 乐理和其他***🎵 ：一些超过吉他范畴的乐理思考，或许你也能发现一段[[Working|我不愉快的工作经历]]。
+[[Wiki/Music Theory and Beyond/index|Music Theory and Beyond 乐理和其他🎵]] ：一些超过吉他范畴的乐理思考。
 
-**联系我**: Runshengzhao@proton.me
+**请联系我**: Runshengzhao@proton.me
 
 ---
 

@@ -2,7 +2,7 @@
 title: 我要转调训练吗？
 description: 这篇文章讨论一个吉他手转调训练的重要性以及具体操作的思考。
 date: 2025-09-09
-draft: true
+draft: false
 comments: true
 tags:
   - post
