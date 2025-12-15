@@ -21,7 +21,7 @@ Runsheng’s pedagogical interests focus on cognitive science and music educatio
 
 For English-speaking visitors: While most of the content is written in Chinese, I hope you’ll still find something useful or inspiring here.
 
-***Feel free to reach out: Runshengzhao@proton.me***
+***Feel free to reach out: rz@runshengzhao.com***
   </div>
 
   <!-- Right Image -->
@@ -44,7 +44,7 @@ For English-speaking visitors: While most of the content is written in Chinese, 
 
 [[Wiki/Music Theory and Beyond/index|Music Theory and Beyond 乐理和其他🎵]] ：一些超过吉他范畴的乐理思考。
 
-**请联系我**: Runshengzhao@proton.me
+**请联系我**: rz@runshengzhao.com
 
 ---
 
