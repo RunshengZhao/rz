@@ -4,15 +4,19 @@ description: "A digital garden rooted in jazz, guitar, and reflection."
 date: 2025-05-14
 draft: false
 comments: false
+cssclasses:
+  - hide-date
+  - hide-title
 tags:
   - 
 ---
 # 👋 Hi, I’m Runsheng Zhao
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
+**Jazz guitarist · educator · digital garden**
+<hr style="margin: 0.5rem 0;">
+<div class="index-flex" style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-bottom: 1.5rem;">
   <!-- Left Text -->
-  <div style="flex: 1; min-width: 250px;">
-🧭<b>Don’t forget to navigate using the menu button!</b>
-
+  <div class="index-text" style="flex: 1; min-width: 250px;">
+  
 Runsheng Zhao is a jazz guitarist and educator based in Denton, Texas. He is currently pursuing a Master of Music in Jazz Studies at the University of North Texas, where he also serves as a Teaching Fellow for the Super 400 guitar ensemble.
 
 He has performed with the UNT Latin Jazz Lab Band and various small combos, appearing at the Denton Arts & Jazz Festival as well as local venues such as Steve’s Winehouse and Harvest House.
@@ -23,15 +27,13 @@ For English-speaking visitors: While most of the content is written in Chinese, 
 
 ***Feel free to reach out: rz@runshengzhao.com***
   </div>
-
   <!-- Right Image -->
-  <div style="flex-shrink: 0;">
+  <div class="index-image" style="flex-shrink: 0;">
     <img src="photo/RunshengYjRecital_1.jpg" alt="Runsheng Portrait" style="max-width: 250px; width: 100%; border-radius: 10px;">
   </div>
-
 </div>
+<hr style="margin: 0.5rem 0;">  
 
----
 # 👋你好，我是赵润生
 
 感谢你来到我的个人网站/数字花园。你可以通过旁边的***导航***🧭去不同的地方看看。

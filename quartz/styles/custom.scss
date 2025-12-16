@@ -8,3 +8,31 @@
   font-display: swap;
   src: url("/static/NotoSansSC-Regular.ttf") format("truetype");
 }
+
+//hide date or hide title
+.center > .page-header {
+  &:has(~ .hide-date) {
+    .content-meta {
+      display: none;
+    }
+  }
+  &:has(~ .hide-title) {
+    .article-title {
+      display: none;
+    }
+  }
+}
+
+//for image goes on top in index page on Mobile
+@media (max-width: 600px) {
+  .index-flex {
+    flex-direction: column; /* stack vertically */
+    gap: 0 !important; /*remove dafault flex gap, make the picture and text closer, important overide inline css*/
+  }
+  .index-text {
+    order: 2; /* text goes below image */
+  }
+  .index-image {
+    order: 1; /* image goes on top */
+  }
+}
