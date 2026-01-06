@@ -1,18 +1,14 @@
 ---
-title: "重读江城"
-description: ""
+title: "Music Theory and Beyond"
+description: "乐理，但是是逆反的乐理"
 date: 2026-01-06
 draft: false
-comments: true
+comments: false
 tags:
   - post
 ---
 
-> One idea per note. What’s the insight here?
-
-## Why does this matter?
-
-## Connections
+音乐理论，这里不仅包含乐理，还包含为什么要音乐（动词）的想法。
 
 ---
 <form
