@@ -1,6 +1,6 @@
 ---
-title: "Music Theory and Beyond"
-description: "乐理，但是是逆反的乐理"
+title: "Music Theory 音乐的道理"
+description: "不单是乐理，更要讲音乐的道理。"
 date: 2026-01-06
 draft: false
 comments: false
