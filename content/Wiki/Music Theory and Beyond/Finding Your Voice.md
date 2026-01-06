@@ -1,8 +1,8 @@
 ---
-title: "寻找你的声音"
-description: ""
+title: 寻找你的声音
+description: 如何寻找在音乐上属于你自己的独特声音。
 date: 2025-06-06
-draft: false
+draft: true
 comments: true
 tags:
   - post
