@@ -1,14 +1,16 @@
 ---
-title: 寻找你的声音
-description: 如何寻找在音乐上属于你自己的独特声音。
-date: 2025-06-06
+title: "Music and Rhetoric"
+description: "音乐与修辞有何联系。"
+date: 2026-01-09
 draft: true
 comments: true
 tags:
   - post
 ---
->[!quote]
-The tenor saxophonist Buddy Tate, known for his many years with the Count Basie Orchestra, once said that the ﬁrst crucial step for young musicians is to ﬁnd their own sound. That is a pretty radical notion. Tate didn’t mean to suggest that an unﬂedged musician had to ﬁnd a sound unlike anyone else’s, just for the sake of novelty. Rather, the young musician needs to know who he is in order to ﬁnd a sound he knows to be his own. The task is only partly a conscious one. Louis Armstrong had an ebullient personality that’s reﬂected in his trumpet sound. Miles Davis had a more introverted personality that’s reﬂected in his. This kind of individuality can’t be taught.    – Scott DeVeaux
+
+# Anaphora
+
+# Epiphora
 
 ---
 <form
