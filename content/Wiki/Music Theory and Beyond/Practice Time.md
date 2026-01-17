@@ -29,7 +29,7 @@ tags:
 当然转念一想，音乐上的成就，和努力，和花费的时间真的没有关系吗？当然不是。在和一些初学者的教学过程中，我意识到“练琴时间不够”的问题可能远远大过于“练琴时间太久而导致疲劳”...
 
 *Psychology for Musicians* 有一章专门提到了练琴时长的问题。抛开所有的研究过程，他们得出的结论是这样：
-在一个研究设置中，研究人员发现在18岁之前，“最好”的小提琴学生已经大约练习了7400个小时,[^1] 另外一个研究也证实了这一点，但同时也发现，最好的学生也需要同样的时间去达到下一个高度。
+在一个研究设置中，研究人员发现在18岁之前，“最好”的小提琴学生已经大约练习了7400个小时,[^1]另外一个研究也证实了这一点，但同时也发现，最好的学生也需要同样的时间去达到下一个高度。
 
 说到7400那个数字，小提琴学生经常在非常年轻（4岁？）时就开始训练。爵士，或者吉他学生虽然不太可能在那么年轻的时间开始训练，但并不意味着，你的时长就可以缩短或者你可以通过死磕每天延长时间来快速的缩短所需要的天数。因为很可惜：**人的大脑是需要休息的。** 这意味着，在我们开头提到的那位建筑学学姐的假设，是不可能实现的。即我在一天之内付出双倍的时间，是不能在天数上缩短一半。甚至会出现身心问题。
 
@@ -38,9 +38,9 @@ tags:
 ## 每天到底练多久？
 重点来了，我直接摘取原文：
 
-> [!quote] Ericsson et al. (1993) estimate that approximately 4 hours’ worth of concentrated daily mental effort is possible without long-term physiological or psychological burnout. Beginners in a domain and children can probably concentrate for shorter amounts of time (also Williamon & Valentine, 2000). [^2]
+> [!quote] Ericsson et al. (1993) estimate that approximately 4 hours’ worth of concentrated daily mental effort is possible without long-term physiological or psychological burnout. Beginners in a domain and children can probably concentrate for shorter amounts of time (also Williamon & Valentine, 2000). 
 
-4个小时是每天能够集中精神训练又不会造成长期生理或心理损耗的时间，对于新手和儿童而言这个时间还要更短。
+4个小时是每天能够集中精神训练又不会造成长期生理或心理损耗的时间，对于新手和儿童而言这个时间还要更短。[^2]
 
 我们再回到7400这个数字，如果每天练习3个小时的话，你大概能在2467天里完成，那大概是6年9个月.。 如果每天练习4个小时的话，那么你需要1850天，即5.1年，那么恭喜你，这意味着，你也许能拿到顶级音乐学院的入场券了。（当然如果有人能在小提琴上训练5年就能进入音乐学院，那已经是非常有天赋的选手了。）
 
@@ -62,8 +62,7 @@ tags:
 
 这个问题也许能成为音乐人最不想回答的问题之一，也许和问别人的乐器，设备一样似乎有那么一点敏感。这些问题好像都有这样的属性：他似乎和一个人的成就息息相关，但又不那么可能成为一个普世的答案。一个负责任的音乐家，在回答这些问题时，必定有责任和考虑自己说的话会不会成为一个年轻音乐人信奉的信条。作为学生而言，你应该能理解，用某某的同款吉他，同款拨片，不太可能成为某某。同样当某某音乐家告诉你他每天练多少时间琴时，你要知道，这也不太可能成为**可复制的，他的成功的秘诀。**  
 
-[^1]: Ericsson, Krampe & Tesch-Römer (1993）
-[^2]: Andreas C. Lehmann et al., Psychology for Musicians: Understanding and Acquiring the Skills (Oxford University Press, 2007), 74.
+
 
 ---
 <form
@@ -115,4 +114,5 @@ tags:
         async>
 </script>
 
-[^1]: Ericsson, Krampe & Tesch-Römer (1993）
+[^1]: Ericsson, Krampe & Tesch-Römer (1993）  
+[^2]: Andreas C. Lehmann et al., Psychology for Musicians: Understanding and Acquiring the Skills (Oxford University Press, 2007), 74.    
