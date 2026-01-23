@@ -13,7 +13,7 @@ tags:
 **This English version was translated from Chinese by LLM**
 
 
-Noel was my teacher from my freshman through junior year. He has an incredibly expressive technique. Once, during one of his solos, I could almost hear the notes slicing through the air with a sharp edge — or you might call it a sense of air in the sound. You could picture the scene from _Kung Fu Hustle_ with the [two zither assassins who kill without leaving a trace](https://www.youtube.com/watch?v=p8NHIT21sow)  
+Noel was my teacher from my freshman through junior year. He has an incredibly expressive technique. Once, during one of his solos, I could almost hear the notes slicing through the air with a sharp edge — or you might call it a sense of air in the sound. You could picture the scene from _Kung Fu Hustle_ with the [Harpist assassins who kill without leaving a trace](https://www.youtube.com/watch?v=p8NHIT21sow)  
 
 When I studied with Noel Johnston, there were many moments when his technique intimidated me so much that I shrank back and didn’t even dare to play.  
 
