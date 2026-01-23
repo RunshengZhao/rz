@@ -10,7 +10,7 @@ tags:
 请点击：[[TechniqueMakesYouSoundGood#技术让你变好听|中文版]]  
 
 ---
-**This English version was translated from Chinese by LLM**
+**This English version was translated from Chinese by LLM**  
 
 
 Noel was my teacher from my freshman through junior year. He has an incredibly expressive technique. Once, during one of his solos, I could almost hear the notes slicing through the air with a sharp edge — or you might call it a sense of air in the sound. You could picture the scene from _Kung Fu Hustle_ with the [Harpist assassins who kill without leaving a trace](https://www.youtube.com/watch?v=p8NHIT21sow)  
@@ -40,7 +40,14 @@ They’re also the easiest “conversation starter” between you and the guitar
 ---
 
 # What to Practice? 
-Of course, technical practice doesn’t mean mindless repetition. Every exercise should be intentional and attentive to be effective. Here are a few types of exercises I pay attention to when listening to students:  
+Of course, technical practice doesn’t mean mindless repetition. Every exercise should be intentional and attentive to be effective. Here are a few types of exercises I pay attention to when listening to students:    
+## Tremolo exercise
+
+Instructions:
+How fast can you play steady sixteenth-note tremolo? Now try adding 1-2-3-4 fingering — how fast can you keep it clean and even?  
+Pay attention to:
+Keep every note evenly spaced. Don’t accidentally accent any one note (especially the first note of each group of sixteenths). After adding the 1-2-3-4 fingering, make sure your left and right hands stay coordinated.   
+For every note, the three contact points — left-hand fretting, right-hand picking, and the rhythmic placement of the note — should line up precisely in time.
 
 ## 1-2-3-4 (almost chromatic) exercise
 
@@ -85,6 +92,10 @@ Noel 是我大一到大三的老师，他有着非常富有表现力的技术，
 
 # 练什么？
 当然技术性练习也并不意味着你就可以无脑地练琴。每一个练习都应该是刻意地，富有关注地，才会有最大的效果。比如以下的几个练习，是我听学生反馈的时候会注意到的层面：
+
+## 震音练习
+指令：你能弹16分音符的震音有多快？如果带上1234的指法的话，又能弹多快？
+注意：每个音都要平均，不要刻意强调某一个音符（特别是16分音符的第一个音符），带上1234的指法后，能否做到左右手协调，每个音符的三个接触点：左手按弦，右手拨弦，音符落点，都在节奏之中。
 
 ## 爬格子（几乎是半音阶）练习
 指令：从六弦开始弹指法1234，对应1234品，切换到5弦，4弦，3弦，直到一弦，再从一弦弹4321回到六弦。上升一个品格，重复这个动作。

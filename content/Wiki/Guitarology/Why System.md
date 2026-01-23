@@ -1,8 +1,8 @@
 ---
-title: "Why System"
-description: "解释为什么吉他需要指法系统。"
+title: Why System
+description: 解释为什么吉他需要指法系统。
 date: 2025-05-15
-draft: false
+draft: true
 comments: true
 tags:
   - post
