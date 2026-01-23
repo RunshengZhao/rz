@@ -30,9 +30,9 @@ The stretch of the left hand, the pressure of fretting the strings, the right-ha
 
 So how do you play with more confidence and decisiveness?  
 
-No matter what you’re trying to play, the answer is actually pretty simple. I often tell beginners: spend time with the guitar every day. Only then will you start to understand its character and how it responds to your touch.  This is easy to understand — **it just takes time.  **
+No matter what you’re trying to play, the answer is actually pretty simple. I often tell beginners: spend time with the guitar every day. Only then will you start to understand its character and how it responds to your touch.  This is easy to understand — **it just takes time. **
 
-As a teacher, you’d be surprised: even without watching a student practice every day, you can almost always tell how much time they’ve really spent with the instrument.
+you’d be surprised: as a teacher, even without watching a student practice every day, I can almost always tell how much time they’ve really spent with the instrument.
 
 Of course, this doesn’t mean hugging your guitar while watching TV for three months will suddenly make you play great. Technical exercises are the best warm-up and the best core practice material. They help you focus on the quality of your sound. They’re focused, self-contained training — exactly the kind of practice that lets your brain concentrate on one thing at a time.  
 They’re also the easiest “conversation starter” between you and the guitar. If you don’t know what to practice, work on technique. At the very least, it can easily fill an hour a day — and that’s much simpler than trying to improvise over a tune for an hour.
@@ -79,7 +79,7 @@ Noel 是我大一到大三的老师，他有着非常富有表现力的技术，
 
 这也是我在上课和教学过程中注意到的一点，往往刚刚开始学习吉他的学生，有种惧怕吉他，被吉他劝退的心理，反应在手上，即没法弹出想要的声音。我理解吉他，或者任何一门乐器，首先是一个物理上的物体，不管你心里怎么思考，它都需要力量去驱动它，即使它不像鼓，或者管乐对身体素质有一定的要求，但它还是要求你能够驾驭住它。不管是左手的拉伸，按弦的力度。还是右手拨弦，或者左右手的配合，都是一种物理层面上的“制造声音”。
 
-那应该如何让自己更加自信果断地弹琴呢？不论到底要弹什么，其实也很简单，我常常和刚刚开始学琴的学生说，要和吉他每天相处一段时间，才能了解它的特性，才能了解它如何回应你的驱动。这也很好理解：要有一定的时间积累。对一个老师而言，你会惊讶，即使他没有天天盯着一个学生练琴，但这个学生每天的练琴时长到底有多久，他有多容易就能看得出来。关于练琴时间, [[Practice Time|我也有一篇文章可读]]。
+那应该如何让自己更加自信果断地弹琴呢？不论到底要弹什么，其实也很简单，我常常和刚刚开始学琴的学生说，要和吉他每天相处一段时间，才能了解它的特性，才能了解它如何回应你的驱动。这也很好理解：要有一定的时间积累。你也许会惊讶，对一个老师而言，即使他没有天天盯着一个学生练琴，但这个学生每天的练琴时长到底有多久，他有多容易就能看得出来。关于练琴时间, [[Practice Time|我也有一篇文章可读]]。
 
 当然，这不意味着你抱着吉他看它三个月电视你就能弹得飞起了。技术性练习是最好的热身和内容练习。它能让你专注于声音的质量。它是一个独立的集中性训练，刚好满足一个练习设计的合理性——能让你的脑力运用在一个单独的层面上。它也是新吉他手们和吉他相处最好的话题：如果无话可说，就练练技术吧，至少每天它能轻轻松松打发你一个小时的时间，而这比在一首曲子里即兴一个小时，要简单太多了。
 
