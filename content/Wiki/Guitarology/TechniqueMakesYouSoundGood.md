@@ -7,6 +7,71 @@ comments: true
 tags:
   - post
 ---
+请点击：[[TechniqueMakesYouSoundGood#技术让你变好听|中文版]]  
+
+---
+**This English version was translated from Chinese by LLM**
+
+
+Noel was my teacher from my freshman through junior year. He has an incredibly expressive technique. Once, during one of his solos, I could almost hear the notes slicing through the air with a sharp edge — or you might call it a sense of air in the sound. You could picture the scene from _Kung Fu Hustle_ with the [two zither assassins who kill without leaving a trace](https://www.youtube.com/watch?v=p8NHIT21sow)  
+
+When I studied with Noel Johnston, there were many moments when his technique intimidated me so much that I shrank back and didn’t even dare to play.  
+
+It was also Noel who said:  
+
+> “If you have bad technique, you cannot execute the appropriate/intended sounds. This (your technique) is the aspect people MOST notice about your musicianship and it’s what defines YOUR sound.”      
+
+
+This is something I’ve noticed again and again, both as a student and as a teacher. Beginners often develop a kind of fear of the guitar — almost like they feel defeated by the instrument. You can hear it directly in their hands: they simply can’t produce the sounds they want.  
+
+To me, the guitar — or any instrument — is first and foremost a physical object. No matter what ideas you have in your head, you still have to physically engage with it to make sound. Even if it doesn’t demand the same level of athleticism as drums or wind instruments, you still need enough control to handle it.  
+
+The stretch of the left hand, the pressure of fretting the strings, the right-hand picking, the coordination between both hands — all of these are physical actions. Sound doesn’t just “happen”; you physically create it.  
+
+So how do you play with more confidence and decisiveness?  
+
+No matter what you’re trying to play, the answer is actually pretty simple. I often tell beginners: spend time with the guitar every day. Only then will you start to understand its character and how it responds to your touch.  This is easy to understand — **it just takes time.  **
+
+As a teacher, you’d be surprised: even without watching a student practice every day, you can almost always tell how much time they’ve really spent with the instrument.
+
+Of course, this doesn’t mean hugging your guitar while watching TV for three months will suddenly make you play great. Technical exercises are the best warm-up and the best core practice material. They help you focus on the quality of your sound. They’re focused, self-contained training — exactly the kind of practice that lets your brain concentrate on one thing at a time.  
+They’re also the easiest “conversation starter” between you and the guitar. If you don’t know what to practice, work on technique. At the very least, it can easily fill an hour a day — and that’s much simpler than trying to improvise over a tune for an hour.
+
+---
+
+# What to Practice? 
+Of course, technical practice doesn’t mean mindless repetition. Every exercise should be intentional and attentive to be effective. Here are a few types of exercises I pay attention to when listening to students:  
+
+## 1-2-3-4 (almost chromatic) exercise
+
+**Instructions:**  
+Start on the 6th string and play 1-2-3-4 on frets 1-2-3-4. Move to the 5th string, then the 4th, then the 3rd, all the way to the 1st string. Then play 4-3-2-1 back down to the 6th string. Shift up one fret and repeat.  
+**Pay attention to:**  
+Are all the notes loud and clear? Does your pinky cause buzzing? When changing strings, don’t break the sound — aim for legato. Keep the rhythm steady and accurate.
+## Chromatic exercise — Kurt Rosenwinkel Chromatic Exercise
+**Instructions:**  
+Start on low E (E2) on the 6th string and play chromatically with 1-2-3-4 fingering. After 1-2-3-4, you can either stay on the same string by switch position and continue or move to the next string — since it’s chromatic, the shift spans five frets. Go all the way up to D6 on the 1st string, then return to E2. Start very slowly, even at BPM = 30.  
+**Pay attention to:**  
+When shifting positions on the same string, move as smoothly and quickly as possible without gaps. The same applies when switching strings. Let every note speak. Try to play each one in a singing, musical way.  
+## Right-hand string-skipping exercise
+Mute the strings with your left hand. With your right hand, play:  
+65, 64, 63, 62, 61, 54, 53, 52, 51, 43, 42, 41, 32, 31, 21.  
+Then reverse from the 1st string:  
+12, 13, 14, 15, 16, 23, 24, 25, 26, 34, 35, 36, 45, 46, 56.    
+**Pay attention to:**  
+Try not to play wrong notes and then correct yourself. Develop accuracy from the start. Get used to feeling the relative position of each string. 
+
+---
+# Summary
+All of these exercises are best practiced **with your eyes closed** and **with a metronome**. The goal isn’t speed — it’s simply getting familiar with the guitar’s nature: feeling the vibration of the strings and really listening to the sound.  
+Music can be treated like background noise, or like something sacred that you’d pay money to hear in a concert hall. The same goes for the sound you make on the guitar.  
+A single note can be casual and cheap, or it can feel serious — almost sacred.    
+
+***It all depends on how sincerely you treat it.  
+I hope you and your guitar can be honest with each other.***
+
+---
+# 技术让你变好听
 
 Noel 是我大一到大三的老师，他有着非常富有表现力的技术，有一次，在他solo的过程，我甚至能听到一种音符划破空气的凌厉的感觉，或者你可以说空气感。你可以想象*功夫*中[杀人于无形的琴魔二人组](https://www.youtube.com/watch?v=p8NHIT21sow)的画面。在和Noel Johnston上课的过程中，我时常会被他的技术吓到让自己感到畏缩而不敢弹琴。
 
