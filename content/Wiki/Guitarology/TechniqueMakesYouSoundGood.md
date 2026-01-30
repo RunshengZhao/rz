@@ -41,11 +41,10 @@ They’re also the easiest “conversation starter” between you and the guitar
 
 # What to Practice? 
 Of course, technical practice doesn’t mean mindless repetition. Every exercise should be intentional and attentive to be effective. Here are a few types of exercises I pay attention to when listening to students:    
-## Tremolo exercise
-
-Instructions:
+## Tremolo exercise  
+**Instructions:**  
 How fast can you play steady sixteenth-note tremolo? Now try adding 1-2-3-4 fingering — how fast can you keep it clean and even?  
-Pay attention to:
+**Pay attention to:**  
 Keep every note evenly spaced. Don’t accidentally accent any one note (especially the first note of each group of sixteenths). After adding the 1-2-3-4 fingering, make sure your left and right hands stay coordinated.   
 For every note, the three contact points — left-hand fretting, right-hand picking, and the rhythmic placement of the note — should line up precisely in time.
 
