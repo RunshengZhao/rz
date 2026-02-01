@@ -36,3 +36,12 @@
     order: 1; /* image goes on top */
   }
 }
+
+//email button
+.email-btn {
+  display: inline-block;
+  padding: 0.1rem 0.3rem;
+  border-radius: 5px;
+  color: inherit;              // text follows theme
+  border: 1px solid currentColor; // border matches text color
+}
