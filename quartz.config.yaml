@@ -226,7 +226,7 @@ plugins:
     options:
       title: Recent Writings
       limit: 5
-      linkToMore: true
+      linkToMore: false
       showTags: false
     layout:
       position: afterBody
