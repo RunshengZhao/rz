@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 赵润生
+  pageTitle: Runsheng Zhao 赵润生
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: runshengzhao.com
+  baseUrl: "runshengzhao.github.io/rz/"
   ignorePatterns:
     - private
     - templates
@@ -226,7 +226,7 @@ plugins:
     options:
       title: Recent Writings
       limit: 5
-      linkToMore: false
+      linkToMore: "tags/post"
       showTags: false
     layout:
       position: afterBody
