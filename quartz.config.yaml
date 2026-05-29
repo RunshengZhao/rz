@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "runshengzhao.github.io/rz/"
+  baseUrl: runshengzhao.com
   ignorePatterns:
     - private
     - templates
@@ -137,6 +137,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: Navigation|导航
     layout:
       position: left
       priority: 50
@@ -244,7 +246,7 @@ plugins:
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
-    enabled: true
+    enabled: false
     options:
       includeAll: false
       includedProperties:
