@@ -138,7 +138,7 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
-      title: Navigation|导航
+      title: Navigation
     layout:
       position: left
       priority: 50
@@ -246,7 +246,7 @@ plugins:
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
-    enabled: false
+    enabled: true
     options:
       includeAll: false
       includedProperties:
