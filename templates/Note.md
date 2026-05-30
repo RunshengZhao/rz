@@ -1,11 +1,12 @@
 ---
-title: "<% tp.file.title %>"
+title: <% tp.file.title %>
 description: ""
-date: <% tp.date.now("YYYY-MM-DD") %>
 draft: false
 comments: true
 tags:
   - post
+created: <% tp.file.creation_date("YYYY-MM-DD'T'HH:mm") %>
+updated: 2026-05-29T19:54
 ---
 
 > One idea per note. What’s the insight here?
