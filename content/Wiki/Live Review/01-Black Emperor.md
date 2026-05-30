@@ -1,12 +1,13 @@
 ---
-title: "Godspeed You! Black Emperor"
-description: "在达拉斯去看黑帝"
+title: Godspeed You! Black Emperor
+description: 在达拉斯去看黑帝
 date: 2025-05-16
 draft: false
-tags: 
+tags:
   - postRock
   - concertReview
   - post
+updated: 2026-05-29T20:49
 ---
 
 ### April 26, 2025

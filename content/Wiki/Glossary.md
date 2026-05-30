@@ -1,10 +1,11 @@
 ---
-title: "Glossary 词汇表"
-description: "解释名词"
+title: Glossary 词汇表
+description: 解释名词
 date: 2025-05-20
 draft: false
 tags:
   - terms
+updated: 2026-05-29T20:49
 ---
 
 ### ii - V - I

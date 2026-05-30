@@ -1,11 +1,12 @@
 ---
-title: "Music and Rhetoric"
-description: "音乐与修辞有何联系。"
+title: Music and Rhetoric
+description: 音乐与修辞有何联系。
 date: 2026-01-09
 draft: true
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 
 # Anaphora

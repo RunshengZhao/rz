@@ -1,12 +1,13 @@
 ---
-title: "Mogwai, 后摇的困境"
-description: "后摇的出路在哪里？或者我们需要期待一条出路吗？"
+title: Mogwai, 后摇的困境
+description: 后摇的出路在哪里？或者我们需要期待一条出路吗？
 date: 2025-05-18
 draft: false
 tags:
   - postRock
   - concertReview
   - post
+updated: 2026-05-29T20:49
 ---
 
 > [!info] **有些时候我想音乐可不可以就是一种频率, 在他们的Program里似乎专门有一轨超低音（subbass），专门在现场为你做音波按摩，震得你从头到脚酥酥麻麻。**

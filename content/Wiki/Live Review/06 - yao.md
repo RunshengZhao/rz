@@ -1,11 +1,12 @@
 ---
-title: "腰乐队"
+title: 腰乐队
 description: ""
 date: 2026-02-28
 draft: true
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 
 近日重温腰乐队的公路之光，但总认为刘涛如果能把此歌转调到一个适合他的调性，比起现在拼了老命的要往下去够那个A2音要好太多了。

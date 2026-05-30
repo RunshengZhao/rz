@@ -1,10 +1,11 @@
 ---
-title: "我从不练琴！"
-description: "每天练琴多久才行？当我们问别人每天练琴多久的时候，到底在期待什么。"
+title: 我从不练琴！
+description: 每天练琴多久才行？当我们问别人每天练琴多久的时候，到底在期待什么。
 date: 2025-05-24
 draft: false
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 
 > [!question] 你每天练几个小时琴?

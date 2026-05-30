@@ -1,11 +1,12 @@
 ---
-title: "What is Jazz?"
-description: "探讨一个什么是爵士的问题，historiography"
+title: What is Jazz?
+description: 探讨一个什么是爵士的问题，historiography
 date: 2026-02-21
 draft: true
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 
 jazz as a music that reflects and responds to the social, political, and cultural contexts out of which it emerges and persists.

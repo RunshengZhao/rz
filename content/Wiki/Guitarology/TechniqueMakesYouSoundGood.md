@@ -1,11 +1,12 @@
 ---
-title: "Technique makes you sound good!"
+title: Technique makes you sound good!
 description: ""
 date: 2026-01-22
 draft: false
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 请点击：[[TechniqueMakesYouSoundGood#技术让你变好听|中文版]]  
 

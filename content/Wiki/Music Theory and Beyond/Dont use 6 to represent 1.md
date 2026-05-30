@@ -1,12 +1,13 @@
 ---
-title: "小调的主音不是6!"
-description: "请坚持用1作为任何音阶的主音"
+title: 小调的主音不是6!
+description: 请坚持用1作为任何音阶的主音
 date: 2025-05-20
 draft: false
 tags:
   - post
   - thoughts
   - musicTheory
+updated: 2026-05-29T20:49
 ---
 
 > [!note] 要改变人的思维惯性是很难的一件事情。

@@ -1,11 +1,12 @@
 ---
-title: "Altered ♮5"
+title: Altered ♮5
 description: ""
 date: 2025-07-03
 draft: false
 comments: false
 tags:
   - appendix
+updated: 2026-05-29T20:49
 ---
 # [[Position 1 in Harmonic Major]]
 ![[Altered_N5_1.svg]]

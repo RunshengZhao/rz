@@ -6,6 +6,7 @@ draft: true
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 >[!quote]
 The tenor saxophonist Buddy Tate, known for his many years with the Count Basie Orchestra, once said that the ﬁrst crucial step for young musicians is to ﬁnd their own sound. That is a pretty radical notion. Tate didn’t mean to suggest that an unﬂedged musician had to ﬁnd a sound unlike anyone else’s, just for the sake of novelty. Rather, the young musician needs to know who he is in order to ﬁnd a sound he knows to be his own. The task is only partly a conscious one. Louis Armstrong had an ebullient personality that’s reﬂected in his trumpet sound. Miles Davis had a more introverted personality that’s reﬂected in his. This kind of individuality can’t be taught.    – Scott DeVeaux

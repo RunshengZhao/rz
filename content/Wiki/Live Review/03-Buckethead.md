@@ -1,12 +1,13 @@
 ---
-title: "Buckethead makes me hate music"
-description: "Buckethead是个吉他手，但或许叫他艺人更合适。"
+title: Buckethead makes me hate music
+description: Buckethead是个吉他手，但或许叫他艺人更合适。
 date: 2025-05-14
 draft: false
 tags:
   - concertReview
   - rock
   - post
+updated: 2026-05-29T20:49
 ---
 ### May 13, 2025. Tuesday
 

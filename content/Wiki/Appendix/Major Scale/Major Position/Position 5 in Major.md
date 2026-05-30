@@ -1,11 +1,12 @@
 ---
-title: "Position 5"
+title: Position 5
 description: ""
 date: 2025-07-03
 draft: false
 comments: false
 tags:
   - appendix
+updated: 2026-05-29T20:49
 ---
 # [[01-Major(Ionian)]]
 

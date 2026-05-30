@@ -1,11 +1,12 @@
 ---
-title: "音乐人的成才之路"
+title: 音乐人的成才之路
 description: ""
 date: 2025-06-06
 draft: true
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 
 > One idea per note. What’s the insight here?

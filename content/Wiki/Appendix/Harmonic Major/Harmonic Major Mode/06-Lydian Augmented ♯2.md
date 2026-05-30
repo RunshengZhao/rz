@@ -1,11 +1,12 @@
 ---
-title: "Lydian Augmented ♯2"
+title: Lydian Augmented ♯2
 description: ""
 date: 2025-07-03
 draft: false
 comments: false
 tags:
   - appendix
+updated: 2026-05-29T20:49
 ---
 # [[Position 1 in Harmonic Major]]
 ![[Lydian_Augmented_S2_1.svg]]

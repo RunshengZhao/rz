@@ -1,11 +1,12 @@
 ---
-title: "级数钟"
-description: "一个可以互动的级数钟。"
+title: 级数钟
+description: 一个可以互动的级数钟。
 date: 2025-06-18
 draft: false
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 **中文版请下滑或[[pitchClassClock#级数钟|点击]]**
 

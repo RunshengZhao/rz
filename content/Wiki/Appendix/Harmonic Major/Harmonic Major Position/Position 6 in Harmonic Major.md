@@ -1,11 +1,12 @@
 ---
-title: "Position 6"
+title: Position 6
 description: ""
 date: 2025-07-03
 draft: false
 comments: false
 tags:
   - appendix
+updated: 2026-05-29T20:49
 ---
 # [[01-Harmonic Major]]
 ![[Ionian_F6_6.svg]]

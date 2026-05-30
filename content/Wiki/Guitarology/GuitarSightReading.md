@@ -1,11 +1,12 @@
 ---
-title: "Sight Reading on Guitar"
+title: Sight Reading on Guitar
 description: ""
 date: 2025-09-12
 draft: false
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 
 This deck is designed for guitarists who struggle with sight reading.

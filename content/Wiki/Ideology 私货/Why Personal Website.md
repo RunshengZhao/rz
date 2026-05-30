@@ -1,11 +1,12 @@
 ---
-title: "为什么要用个人网站"
-description: "为什么要用个人网站而不是微信公众号，小红书？因为害怕随时被删帖，限流，被卖数据？这里我解释为什么要用个人网站而不是其他平台。"
+title: 为什么要用个人网站
+description: 为什么要用个人网站而不是微信公众号，小红书？因为害怕随时被删帖，限流，被卖数据？这里我解释为什么要用个人网站而不是其他平台。
 date: 2025-05-27
 draft: true
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:49
 ---
 
 > One idea per note. What’s the insight here?

@@ -1,6 +1,6 @@
 ---
-title: "Runsheng Zhao | 赵润生"
-description: "A digital garden rooted in jazz, guitar, and reflection."
+title: Runsheng Zhao | 赵润生
+description: A digital garden rooted in jazz, guitar, and reflection.
 date: 2025-05-14
 draft: false
 comments: false
@@ -9,6 +9,7 @@ cssclasses:
   - hide-title
 tags:
   - 
+updated: 2026-05-29T20:49
 ---
 # 👋 Hi, I’m Runsheng Zhao
 **Jazz guitarist · educator · digital garden**

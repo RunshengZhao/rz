@@ -1,11 +1,12 @@
 ---
-title: "Altered Scale"
+title: Altered Scale
 description: ""
 date: 2025-07-03
 draft: false
 comments: false
 tags:
   - appendix
+updated: 2026-05-29T20:49
 ---
 
 Altered Scale 是旋律小调的第7个调式，也是最后一个调式。它的组成音为：1 ♭2 ♭3 ♭4 ♭5 ♭6 ♭7。  
