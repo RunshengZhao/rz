@@ -6,7 +6,7 @@ draft: false
 comments: false
 tags:
   - biography
-updated: 2026-05-29T20:22
+updated: 2026-05-29T20:44
 ---
 
 Runsheng Zhao is a versatile jazz guitarist and dedicated educator based in Denton, Texas. With a deep foundation in both small combo and big band settings, he has performed extensively across the University of North Texas jazz scene, including with the acclaimed Three O’Clock and Four O’Clock Lab Bands, as well as the innovative L5 Jazz Guitar Ensemble. His playing reflects a commitment to both tradition and exploration, shaped by a strong background in arranging and composing.

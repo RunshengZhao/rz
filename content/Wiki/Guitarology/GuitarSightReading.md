@@ -6,6 +6,7 @@ draft: false
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:44
 ---
 
 This deck is designed for guitarists who struggle with sight reading.

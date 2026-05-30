@@ -6,7 +6,7 @@ draft: false
 comments: true
 tags:
   - appendix
-updated: 2026-05-29T20:22
+updated: 2026-05-29T20:44
 ---
 
 这里是所有的Harmonic Minor音阶，以调式和指型两种组织方式排列出来。

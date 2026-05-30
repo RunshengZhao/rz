@@ -6,7 +6,7 @@ draft: false
 comments: false
 tags:
   - 
-updated: 2026-05-29T20:22
+updated: 2026-05-29T20:44
 ---
 Welcome! This section is a quick guide to who I am, my creative work, and how you can get in touch.
 

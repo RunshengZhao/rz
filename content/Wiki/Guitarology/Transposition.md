@@ -6,6 +6,7 @@ draft: false
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:44
 ---
 
 我在这篇关于练习[[Practicing Scale|音阶]]的文章中，提到吉他手对于是否要转12个调练习有这不同的态度。有人觉得需要，有人觉得没有必要。那么造成这种无法达成共识的原因是什么呢？

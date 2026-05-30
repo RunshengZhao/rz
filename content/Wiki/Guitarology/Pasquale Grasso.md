@@ -6,6 +6,7 @@ draft: false
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:44
 ---
 
 开车2小时去给Pasquale Grasso租一个Fender Twin Reverb的箱子。中途路过一家台湾小吃。吃过之后大概再也不会去那家店了。

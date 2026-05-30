@@ -6,6 +6,7 @@ draft: true
 comments: true
 tags:
   - post
+updated: 2026-05-29T20:44
 ---
 
 解释为什么吉他需要系统。

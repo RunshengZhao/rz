@@ -6,6 +6,7 @@ draft: false
 comments: false
 tags:
   - 
+updated: 2026-05-29T20:44
 ---
 
 I like going to concerts. I leave some reviews here.

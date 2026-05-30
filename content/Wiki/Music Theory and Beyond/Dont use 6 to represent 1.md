@@ -7,6 +7,7 @@ tags:
   - post
   - thoughts
   - musicTheory
+updated: 2026-05-29T20:44
 ---
 
 > [!note] 要改变人的思维惯性是很难的一件事情。
