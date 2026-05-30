@@ -6,7 +6,7 @@ draft: false
 comments: true
 tags:
   - post
-updated: 2026-05-29T20:44
+updated: 2025-06-18
 ---
 **中文版请下滑或[[pitchClassClock#级数钟|点击]]**
 

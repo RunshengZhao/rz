@@ -6,7 +6,7 @@ draft: true
 comments: true
 tags:
   - post
-updated: 2026-05-29T20:44
+updated: 2026-02-21
 ---
 
 jazz as a music that reflects and responds to the social, political, and cultural contexts out of which it emerges and persists.

@@ -6,7 +6,7 @@ draft: false
 comments: true
 tags:
   - post
-updated: 2026-05-29T20:44
+updated: 2025-08-21
 ---
 
 > [!info] 在[[CAGED system]]这篇文章里，我们探讨了CAGED System的优劣。并总结为他的优劣本质是来自于音乐上对于Relative和Parallel的分析判断，这篇文章是来探索另外一种系统来解决这个问题。

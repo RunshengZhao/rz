@@ -6,7 +6,7 @@ draft: true
 comments: true
 tags:
   - post
-updated: 2026-05-29T20:44
+updated: 2026-01-09
 ---
 
 # Anaphora

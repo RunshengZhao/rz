@@ -8,7 +8,7 @@ tags:
   - thoughts
   - musicTheory
   - post
-updated: 2026-05-29T20:44
+updated: 2025-05-27
 ---
 
 > [!quote] ![[Goodrick quote.png]]  

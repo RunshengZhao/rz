@@ -6,7 +6,7 @@ draft: false
 comments: false
 tags:
   - appendix
-updated: 2026-05-29T20:44
+updated: 2025-07-03
 ---
 Lydian ♯9 是 [[01-Harmonic Minor]]的第6个调式
 

@@ -7,7 +7,7 @@ comments: true
 tags:
   - post
   - ideology
-updated: 2026-05-29T20:44
+updated: 2025-05-28
 ---
 
 AI这个话题已经收到了全世界的关注，特别是在学校这样的场所，Intelligencer 最近发表了一篇非常精彩的文章：[每个人都在用AI作弊通过大学](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html)， 推荐阅读。The Atlantic 也有一篇相似的[文章](https://www.theatlantic.com/technology/archive/2024/08/another-year-ai-college-cheating/679502/)。我相信在这个领域，这些作者都得出了有见解的结论。包括这个[视频:你比AI写得更好](https://youtu.be/V5wLQ-8eyQI?si=_M6AQ4uXxOdqWQPW) 也提供了文学的角度。那我想在这里提供一个全新的个人的角度，也是一个作为中文母语者的角度。

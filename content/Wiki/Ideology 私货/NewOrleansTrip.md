@@ -6,7 +6,7 @@ draft: false
 comments: true
 tags:
   - post
-updated: 2026-05-29T20:44
+updated: 2026-03-12
 ---
 
 往东南方向开车10个小时进去新奥尔良的旅程，就像逐渐钻进一个隐秘的尘封的地点。

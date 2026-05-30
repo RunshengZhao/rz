@@ -6,7 +6,7 @@ draft: false
 comments: true
 tags:
   - post
-updated: 2026-05-29T20:44
+updated: 2025-05-15
 ---
 
 也许很多入门多一点的学生第一个听老师讲授的系统，就是CAGED 系统。我就没有那么幸运了，我没有学过CAGED系统，而是自己摸索出来的CAGED系统，我的CAGED系统也不能叫CAGED， 而可以叫FDCAG系统，有兴趣的同学可以猜一下为什么。

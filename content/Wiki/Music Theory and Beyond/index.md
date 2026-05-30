@@ -6,7 +6,7 @@ draft: false
 comments: false
 tags:
   - post
-updated: 2026-05-29T20:44
+updated: 2026-01-06
 ---
 
 音乐理论，这里不仅包含乐理，还包含为什么要音乐（动词）的想法。

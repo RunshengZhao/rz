@@ -6,7 +6,7 @@ draft: true
 comments: true
 tags:
   - post
-updated: 2026-05-29T20:44
+updated: 2025-06-28
 ---
 
 最近在B站刷到一个批判“节拍器有害论”的视频。联想到最近在看的*Learn Faster, Perform Better* 一书，想借此反驳一下”反驳节拍器有害论“的视频。
