@@ -1,6 +1,6 @@
 ---
-title: "小调的主音不是6!"
-description: "请坚持用1作为任何音阶的主音"
+title: 小调的主音不是6!
+description: 请坚持用1作为任何音阶的主音
 date: 2025-05-20
 draft: false
 tags:

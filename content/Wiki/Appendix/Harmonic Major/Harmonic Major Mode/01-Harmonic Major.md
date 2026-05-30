@@ -1,11 +1,12 @@
 ---
-title: "Harmonic Major"
+title: Harmonic Major
 description: ""
 date: 2025-07-03
 draft: false
 comments: false
 tags:
   - appendix
+updated: 2026-05-29T20:22
 ---
 # [[Position 1 in Harmonic Major]]
 ![[Ionian_F6_1.svg]]

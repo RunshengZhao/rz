@@ -1,6 +1,6 @@
 ---
-title: "有了AI后，音乐人完蛋了，吗？"
-description: "有了AI之后，音乐人会面临失业吗？"
+title: 有了AI后，音乐人完蛋了，吗？
+description: 有了AI之后，音乐人会面临失业吗？
 date: 2026-01-02
 draft: false
 comments: true

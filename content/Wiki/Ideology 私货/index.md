@@ -1,5 +1,5 @@
 ---
-title: "Ideology 私货"
+title: Ideology 私货
 description: ""
 date: 2025-05-27
 draft: false

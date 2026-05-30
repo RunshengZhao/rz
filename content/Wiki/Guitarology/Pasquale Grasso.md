@@ -1,6 +1,6 @@
 ---
-title: "Pasquale Grasso"
-description: "Cliché从不同人口中说出也有不同的分量"
+title: Pasquale Grasso
+description: Cliché从不同人口中说出也有不同的分量
 date: 2025-11-18
 draft: false
 comments: true

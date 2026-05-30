@@ -1,5 +1,5 @@
 ---
-title: "音乐人的成才之路"
+title: 音乐人的成才之路
 description: ""
 date: 2025-06-06
 draft: true

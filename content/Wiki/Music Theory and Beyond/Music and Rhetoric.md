@@ -1,6 +1,6 @@
 ---
-title: "Music and Rhetoric"
-description: "音乐与修辞有何联系。"
+title: Music and Rhetoric
+description: 音乐与修辞有何联系。
 date: 2026-01-09
 draft: true
 comments: true

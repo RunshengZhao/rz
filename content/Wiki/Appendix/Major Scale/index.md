@@ -1,11 +1,12 @@
 ---
-title: "Major Scale"
-description: "All major scales organized in modes and positions"
+title: Major Scale
+description: All major scales organized in modes and positions
 date: 2025-07-03
 draft: false
 comments: false
 tags:
   - appendix
+updated: 2026-05-29T20:22
 ---
 这里是所有的Major音阶，以调式和指型两种组织方式排列出来。
 # 调式

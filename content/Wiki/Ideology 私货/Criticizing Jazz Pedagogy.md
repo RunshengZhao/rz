@@ -1,5 +1,5 @@
 ---
-title: "爵士教育批判：课程"
+title: 爵士教育批判：课程
 description: ""
 date: 2025-06-08
 draft: true

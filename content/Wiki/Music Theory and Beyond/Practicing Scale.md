@@ -1,6 +1,6 @@
 ---
-title: "我从不练音阶"
-description: "这篇文章是对是否需要练习音阶等素材的的反馈。"
+title: 我从不练音阶
+description: 这篇文章是对是否需要练习音阶等素材的的反馈。
 date: 2025-05-23
 draft: false
 tags:

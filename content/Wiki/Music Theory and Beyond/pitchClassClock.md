@@ -1,6 +1,6 @@
 ---
-title: "级数钟"
-description: "一个可以互动的级数钟。"
+title: 级数钟
+description: 一个可以互动的级数钟。
 date: 2025-06-18
 draft: false
 comments: true

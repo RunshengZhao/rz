@@ -1,6 +1,6 @@
 ---
-title: "What is Jazz?"
-description: "探讨一个什么是爵士的问题，historiography"
+title: What is Jazz?
+description: 探讨一个什么是爵士的问题，historiography
 date: 2026-02-21
 draft: true
 comments: true

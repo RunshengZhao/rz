@@ -1,5 +1,5 @@
 ---
-title: "Sight Reading on Guitar"
+title: Sight Reading on Guitar
 description: ""
 date: 2025-09-12
 draft: false

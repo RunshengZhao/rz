@@ -1,11 +1,12 @@
 ---
-title: "Locrian ♮2♮6"
+title: Locrian ♮2♮6
 description: ""
 date: 2025-07-03
 draft: false
 comments: false
 tags:
   - appendix
+updated: 2026-05-29T20:22
 ---
 # [[Position 1 in Harmonic Major]]
 ![[Locrian_N2N6_1.svg]]

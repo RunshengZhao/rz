@@ -1,5 +1,5 @@
 ---
-title: "王菲"
+title: 王菲
 description: ""
 date: 2025-10-07
 draft: false

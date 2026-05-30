@@ -1,11 +1,12 @@
 ---
-title: "Photo"
-description: "some photos about me."
+title: Photo
+description: some photos about me.
 date: 2025-05-14
 draft: false
 comments: false
 tags:
   - photo
+updated: 2026-05-29T20:22
 ---
 
 # Senior Recital

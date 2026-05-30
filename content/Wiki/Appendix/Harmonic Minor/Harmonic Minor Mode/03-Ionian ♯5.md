@@ -1,11 +1,12 @@
 ---
-title: "Ionian ♯5"
+title: Ionian ♯5
 description: ""
 date: 2025-07-03
 draft: false
 comments: false
 tags:
   - appendix
+updated: 2026-05-29T20:22
 ---
 # [[Position 1 in Harmonic Minor]]
 

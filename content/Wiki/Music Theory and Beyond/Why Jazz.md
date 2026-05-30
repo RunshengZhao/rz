@@ -1,6 +1,6 @@
 ---
-title: "Why Jazz?"
-description: "This is a reflection on why we study jazz.这篇文章谈到了为什么要学习爵士，提供了一些个人角度和思考供你参考。"
+title: Why Jazz?
+description: This is a reflection on why we study jazz.这篇文章谈到了为什么要学习爵士，提供了一些个人角度和思考供你参考。
 date: 2025-06-06
 draft: false
 comments: true

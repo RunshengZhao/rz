@@ -1,6 +1,6 @@
 ---
-title: "视觉vs听觉，以及语言"
-description: "这篇文章我想讨论语言对于人的视觉和听觉的影响。"
+title: 视觉vs听觉，以及语言
+description: 这篇文章我想讨论语言对于人的视觉和听觉的影响。
 date: 2025-05-27
 draft: true
 comments: true

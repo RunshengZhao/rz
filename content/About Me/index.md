@@ -1,11 +1,12 @@
 ---
-title: "About Me"
-description: "This section is a quick guide to who I am, my creative work, and how you can get in touch."
+title: About Me
+description: This section is a quick guide to who I am, my creative work, and how you can get in touch.
 date: 2025-05-14
 draft: false
 comments: false
 tags:
   - 
+updated: 2026-05-29T20:22
 ---
 Welcome! This section is a quick guide to who I am, my creative work, and how you can get in touch.
 

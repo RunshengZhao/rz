@@ -1,6 +1,6 @@
 ---
-title: "别做一个靠谱的人"
-description: "这篇文章讨论记忆和从记忆里弹琴的重要性。"
+title: 别做一个靠谱的人
+description: 这篇文章讨论记忆和从记忆里弹琴的重要性。
 date: 2025-09-07
 draft: false
 comments: true

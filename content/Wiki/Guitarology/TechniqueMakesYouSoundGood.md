@@ -1,5 +1,5 @@
 ---
-title: "Technique makes you sound good!"
+title: Technique makes you sound good!
 description: ""
 date: 2026-01-22
 draft: false

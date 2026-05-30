@@ -1,6 +1,6 @@
 ---
-title: "Learn Faster Perform Better Quote"
-description: "quotes from the book Learn Faster, Perform Better"
+title: Learn Faster Perform Better Quote
+description: quotes from the book Learn Faster, Perform Better
 date: 2026-05-14
 draft: true
 comments: true
