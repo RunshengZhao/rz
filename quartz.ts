@@ -1,6 +1,9 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { componentRegistry } from "./quartz/components/registry"
+import { registerCondition } from "./quartz/plugins/loader/conditions"
 import { QuartzPluginData } from "./quartz/plugins/vfile"
+
+registerCondition("index-only", (props) => props.fileData.slug === "index")
 
 const sortByModified = (f1: QuartzPluginData, f2: QuartzPluginData): number => {
   const d1 = f1.dates?.modified ?? f1.dates?.created ?? new Date(0)

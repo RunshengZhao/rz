@@ -46,9 +46,9 @@ plugins:
     options:
       defaultDateType: modified
       priority:
+        - filesystem
         - git
         - frontmatter
-        - filesystem
     order: 10
   - source: github:quartz-community/syntax-highlighting
     enabled: true
@@ -233,6 +233,7 @@ plugins:
     layout:
       position: afterBody
       priority: 25
+      condition: index-only
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
