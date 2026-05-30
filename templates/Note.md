@@ -5,8 +5,8 @@ draft: false
 comments: true
 tags:
   - post
-created: <% tp.file.creation_date("YYYY-MM-DD'T'HH:mm") %>
-updated: <% tp.last_modified_date("YYYY-MM-DD'T'HH:mm") %>
+created: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
+updated: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm") %>
 ---
 
 > One idea per note. What’s the insight here?
