@@ -5,7 +5,7 @@ draft: false
 comments: true
 tags:
   - post
-created: 2026-05-30'T'01:17
+created: "2026-05-30 01:17"
 updated: "2026-05-30 01:39"
 ---
 
