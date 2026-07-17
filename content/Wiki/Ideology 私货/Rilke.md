@@ -9,8 +9,8 @@ created: 2026-06-17 02:01
 updated: 2026-06-17 02:01
 ---
 
-![[Rilke_1.jpeg]]
-![[Rilke_2.jpeg]]
+![[Rilke_1.jpeg|600]]
+![[Rilke_2.jpeg|600]]
 
 **Davy certainly loves this dude.**
 
@@ -30,6 +30,8 @@ Davy 讲他在Herbie Hancock Institution时，Kurt Elling 有一次过来，给�
 Kappus，那个Rilke写信的对象最终还是没能成为诗人。而这些信件，我猜对RIlke自己的意义要大于他输出给别人的意义。他不仅是在告诉别人应不应该成为诗人，他是在告诉自己，应该如何和这种不确定性活着，他找到了和自己共处的方式，并且和那些偷外卖和刷爆信用卡的人一样能够，自圆其说。
 
 二十七岁的Rilke有大智慧。
+
+![[LetterstoaYoundPoet.jpg|600]]
 
 ---
 <form
