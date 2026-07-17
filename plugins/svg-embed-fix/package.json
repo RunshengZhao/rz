@@ -1,0 +1,14 @@
+{
+  "name": "svg-embed-fix",
+  "version": "1.0.0",
+  "description": "Rewrites OFM SVG <object> embeds to <img> so CrawlLinks resolves their paths",
+  "type": "module",
+  "main": "index.js",
+  "quartz": {
+    "name": "svg-embed-fix",
+    "displayName": "SVG Embed Fix",
+    "description": "Workaround: rewrites SVG wikilink embeds from <object> to <img> so CrawlLinks applies shortest-path resolution. Remove once fixed upstream in obsidian-flavored-markdown or crawl-links.",
+    "category": "transformer",
+    "defaultOrder": 55
+  }
+}

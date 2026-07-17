@@ -74,6 +74,13 @@ plugins:
     layout:
       position: right
       priority: 30
+  # Local workaround: OFM renders ![[file.svg]] as <object> with an unresolved
+  # path that crawl-links never rewrites (it only handles img/video/audio/iframe
+  # src). This plugin rewrites those <object>s to <img> before crawl-links runs.
+  # Remove this entry and the plugins/svg-embed-fix/ directory once fixed upstream.
+  - source: ./plugins/svg-embed-fix
+    enabled: true
+    order: 55
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
