@@ -1,6 +1,6 @@
 ---
 title: 我要学音乐吗
-description: "如果你需要去问别人自己该不该学音乐，那你还没有准备好。"
+description: "如果要我给出建议，我不建议任何人走职业音乐人的道路，就正如我爹不让我搞体育一样"
 draft: true
 comments: true
 tags:
