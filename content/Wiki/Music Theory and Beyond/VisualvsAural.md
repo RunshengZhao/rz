@@ -2,11 +2,11 @@
 title: 视觉vs听觉，以及语言
 description: 这篇文章我想讨论语言对于人的视觉和听觉的影响。
 date: 2025-05-27
-draft: true
+draft: false
 comments: true
 tags:
   - post
-updated: 2025-05-27
+updated: 2026-09-15
 ---
 
 Maybe it's opinion based。
