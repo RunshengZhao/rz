@@ -241,7 +241,7 @@ plugins:
       showTags: false
     layout:
       position: afterBody
-      priority: 25
+      priority: 5
       condition: index-only
   - source: github:quartz-community/spacer
     enabled: true
