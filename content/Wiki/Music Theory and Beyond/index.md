@@ -5,7 +5,7 @@ date: 2026-01-06
 draft: false
 comments: false
 tags:
-  - post
+  
 updated: 2026-01-06
 ---
 
