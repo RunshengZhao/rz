@@ -212,14 +212,14 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
+        repo: RunshengZhao/rz
+        repoId: R_kgDOOrPyUA
         category: Announcements
-        categoryId: TODO:your-category-id
-        mapping: url
-        strict: true
+        categoryId: DIC_kwDOOrPyUM4CqW1I
+        mapping: pathname
+        strict: false
         reactionsEnabled: true
-        inputPosition: bottom
+        inputPosition: top
         lightTheme: light
         darkTheme: dark
         lang: en
@@ -280,6 +280,8 @@ layout:
       gap: 0.5rem
   byPageType:
     "404":
+      exclude:
+        - comments
       positions:
         beforeBody: []
         left: []
@@ -288,11 +290,13 @@ layout:
     folder:
       exclude:
         - reader-mode
+        - comments
       positions:
         right: []
     tag:
       exclude:
         - reader-mode
+        - comments
       positions:
         right: []
     canvas: {}
