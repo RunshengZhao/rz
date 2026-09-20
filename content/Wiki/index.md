@@ -21,8 +21,8 @@ updated: 2025-05-14
 
 ---
 
-如果想来点硬核的吉他干货，请通过导航移步**Appendix**
-如果你对吉他感兴趣，请通过导航移步 **Guitarology 吉他学**
-如果想来看看我有没有*夹带私货*，请通过导航移步 **Ideology**
-如果想看看现场评论，请去**Live Review**
-如果想聊聊乐理，请去**Music Theory and Beyond**
+如果想来点硬核的吉他干货，请通过导航移步**[[content/Wiki/Appendix/index|Appendix]]**  
+如果你对吉他感兴趣，请通过导航移步 **[[content/Wiki/Guitarology/index|Guitarology 吉他学]]**  
+如果想来看看我有没有*夹带私货*，请通过导航移步 **[[content/Wiki/Ideology 私货/index|Ideology 私货]]**  
+如果想看看现场评论，请去**[[content/Wiki/Live Review/index|Live Review 现场评论]]**  
+如果想聊聊乐理，请去**[[content/Wiki/Music Theory and Beyond/index|Music Theory 音乐的道理]]**  

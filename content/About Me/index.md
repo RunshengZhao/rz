@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Me 关于我
 description: This section is a quick guide to who I am, my creative work, and how you can get in touch.
 date: 2025-05-14
 draft: false
